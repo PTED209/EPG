@@ -1,0 +1,2015 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-1.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">RTP 2</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-2.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sic.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">TVI</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvi.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SIC NOTÍCIAS">
+    <display-name lang="pt">SIC NOTÍCIAS</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sic-noticias.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="RTP 3">
+    <display-name lang="pt">RTP 3</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-3.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVI24">
+    <display-name lang="pt">TVI24</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvi24.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="CMTV">
+    <display-name lang="pt">CMTV</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/cmtv.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SPORT TV +">
+    <display-name lang="pt">SPORT TV +</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv+.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SIC MULHER">
+    <display-name lang="pt">SIC MULHER</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sic-mulher.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVI FICÇÃO">
+    <display-name lang="pt">TVI FICÇÃO</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvi-ficcao.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="A BOLA TV">
+    <display-name lang="pt">A BOLA TV</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/a-bola-tv.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="PORTO CANAL">
+    <display-name lang="pt">PORTO CANAL</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/porto-canal.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SIC RADICAL">
+    <display-name lang="pt">SIC RADICAL</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sic-radical.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="Q">
+    <display-name lang="pt">Q</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/q.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <programme start="20191022025800 +0100" stop="20191022055900 +0100" channel="RTP 1">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13131295/M" />
+  </programme>
+  <programme start="20191022055900 +0100" stop="20191022063000 +0100" channel="RTP 1">
+    <title lang="pt">Manchetes 3</title>
+    <desc lang="pt">Informação diária(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13131299/M" />
+  </programme>
+  <programme start="20191022063000 +0100" stop="20191022100000 +0100" channel="RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
+    <desc lang="pt">Espaço informativo, com as primeiras notícias do dia, a partir das 6h30. Apresentado por Carla Trafaria e João Tomé de Carvalho(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13131303/M" />
+  </programme>
+  <programme start="20191022100000 +0100" stop="20191022130000 +0100" channel="RTP 1">
+    <title lang="pt">Praça da Alegria</title>
+    <desc lang="pt">Jorge Gabriel e Sónia Araújo dão-lhe as boas vindas à nova casa da “Praça da Alegria De segunda a sexta-feira, entre as 10h e as 13h, este programa vai levar até si a melhor música, as últimas tendências da moda, conselhos úteis e novas dicas que facilitam o seu dia-a-dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13131272/M" />
+  </programme>
+  <programme start="20191022130000 +0100" stop="20191022141000 +0100" channel="RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+    <desc lang="pt">As notícias que marcam a atualidade nacional e internacional(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13131307/M" />
+  </programme>
+  <programme start="20191022141000 +0100" stop="20191022151300 +0100" channel="RTP 1">
+    <title lang="pt">Bem-vindos a Beirais</title>
+    <desc lang="pt">Na Sociedade Diogo e Carlos falam das audiências da Rádio que precisam ser dinamizadas. Marina está preocupada porque lhe pediram o livro de Reclamações. Tiago conta a Diogo que o Firmino lhe disse que abriram em Linda-a-Gorda uma casa de swing 'O Prazer Latino'. Alzira e Manel lembram saudosistas os tempos em que dançavam swing(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/7877533/M" />
+    <episode-num system="onscreen">S4 E182</episode-num>
+  </programme>
+  <programme start="20191022151300 +0100" stop="20191022173000 +0100" channel="RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
+    <desc lang="pt">Conheça o lado mais emocional de Tânia Ribas de Oliveira no novo programa das tardes da RTP(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13131279/M" />
+  </programme>
+  <programme start="20191022173000 +0100" stop="20191022190800 +0100" channel="RTP 1">
+    <title lang="pt">Portugal em Direto</title>
+    <desc lang="pt">A atualidade diária do nosso país. Portugal em Direto é um espaço de informação nacional apresentado pela jornalista Dina Aguiar(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13131311/M" />
+  </programme>
+  <programme start="20191022190800 +0100" stop="20191022195900 +0100" channel="RTP 1">
+    <title lang="pt">O Preço Certo</title>
+    <desc lang="pt">Um dos concursos mais famosos da Europa com um ambiente elétrico onde quem se senta na plateia é convidado a jogar. Um programa de entretenimento com um caráter informativo sobre os preços de mercado e sobre novos produtos. Junte-se a Fernando Mendes e divirta-se!(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13131283/M" />
+  </programme>
+  <programme start="20191022195900 +0100" stop="20191022210000 +0100" channel="RTP 1">
+    <title lang="pt">Telejornal</title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejornal(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13131315/M" />
+  </programme>
+  <programme start="20191022210000 +0100" stop="20191022214400 +0100" channel="RTP 1">
+    <title lang="pt">Outras Histórias</title>
+    <desc lang="pt">Cada um de nós tem uma história para contar e para partilhar. Em cada uma destas reportagens ficaremos a conhecer a história de pessoas ou de projetos que, por alguma razão, inspiram ou surpreendem(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13131319/M" />
+  </programme>
+  <programme start="20191022214400 +0100" stop="20191022223500 +0100" channel="RTP 1">
+    <title lang="pt">Joker</title>
+    <desc lang="pt">Apresentado por Vasco Palmeirim, este concurso pretende descobrir a mente mais brilhante de Portugal. Um concorrente e o seu acompanhante respondem a perguntas sobre cultura geral e tentam atingir o patamar máximo, onde o prémio é de 50 mil euros(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13131287/M" />
+  </programme>
+  <programme start="20191022223500 +0100" stop="20191023000000 +0100" channel="RTP 1">
+    <title lang="pt">Prova Oral</title>
+    <desc lang="pt">O famoso programa diário da Antena 3 é uma instituição com 20 anos e ganha agora a forma de programa televisivo semanal. Fernando Alvim , com a ajuda intercalada de Xana Alves e Catarina Moura, entrevistam em estúdio gente do momento, com as perguntas que todos desejam e as reações dos espetadores, enviadas por Whatsapp e outros dispositivos(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13131291/M" />
+  </programme>
+  <programme start="20191022032200 +0100" stop="20191022041000 +0100" channel="RTP 2">
+    <title lang="pt">Selva Viva</title>
+    <desc lang="pt">Neste capítulo, conheceremos os insetos mais extraordinários da floresta amazónica que igualmente fazem parte da alimentação humana. Faremos uma viagem de barco no rio Momon, nas profundezas da Amazónia, durante a qual seremos literalmente atacados pela selva(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13090919/M" />
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20191022041000 +0100" stop="20191022045800 +0100" channel="RTP 2">
+    <title lang="pt">Euronews</title>
+    <desc lang="pt">Um programa que resulta da parceria entre a RTP e a Euronews, com sede em Lyon e onde trabalham, entre outros, 16 jornalistas portugueses, não pertencentes à RTP. As peças consideradas de maior interesse são enviadas diretamente pela Euronews, procedendo depois a RTP a uma triagem dessas notícias(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132601/M" />
+  </programme>
+  <programme start="20191022045800 +0100" stop="20191022054800 +0100" channel="RTP 2">
+    <title lang="pt">O Sábio</title>
+    <desc lang="pt">Pedro confidência ao monge budista a difícil decisão que acaba de tomar. Passados 20 anos de ter saído de Portugal, irá deixar o templo e regressar. Manuela prepara-se para a gravação no seu consultório. Ela encara a câmara com um sorriso carismático, convida os telespectadores a adquirirem um conjunto que irá restabelecer o equilíbrio dos seus lares(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132577/M" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20191022054800 +0100" stop="20191022063200 +0100" channel="RTP 2">
+    <title lang="pt">Os Nossos Dias</title>
+    <desc lang="pt">Tatiana e Romeu ajudam a tratar de um menino do lar que não quer fazer o curativo no joelho. Percebe-se pela abordagem que tanto um como outro tem muita facilidade em relacionar-se com os miúdos. Depois de uma noite passada num hotel com a mulher, Artur chega ao café e liga à filha mas ela não atende. Bernardo acorda com o barulho do telefone e vê um dos amigos com um braço à volta de Rosarinho(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132579/M" />
+    <episode-num system="onscreen">S2 E109</episode-num>
+  </programme>
+  <programme start="20191022063200 +0100" stop="20191022070000 +0100" channel="RTP 2">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+    <desc lang="pt">Noticiário diário com a atualidade do continente africano(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132603/M" />
+  </programme>
+  <programme start="20191022070000 +0100" stop="20191022112200 +0100" channel="RTP 2">
+    <title lang="pt">Espaço Zig Zag</title>
+    <desc lang="pt">A magia e a aventura estão na RTP com o ZIG ZAG. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132581/M" />
+  </programme>
+  <programme start="20191022112200 +0100" stop="20191022121200 +0100" channel="RTP 2">
+    <title lang="pt">Cultura Antiga</title>
+    <desc lang="pt">Claudio Iturra viaja até ao Vietname, mais especificamente para a Baía de Ha-long, onde dará a conhecer uma das sete maravilhas naturais do mundo. Esta maravilha da natureza caracteriza-se por ter 'as rochas que se beijam', majestosas rochas que emergem do oceano(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132583/M" />
+    <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20191022121200 +0100" stop="20191022130500 +0100" channel="RTP 2">
+    <title lang="pt">Candice Renoir</title>
+    <desc lang="pt">Uma família desaparece de uma forma inquietante e o luminol e o teste de ADN revelam importantes vestígios de sangue pertencentes a cada um dos seus membros. Mais um mistério que Candice e restante equipa terão de resolver e que terá continuação no próximo e último episódio(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13011636/M" />
+    <episode-num system="onscreen">S6 E9</episode-num>
+  </programme>
+  <programme start="20191022130500 +0100" stop="20191022131800 +0100" channel="RTP 2">
+    <title lang="pt">3 AmigoNautas</title>
+    <desc lang="pt">Situado no futuro distante da Terra, 3 Amigonautas conta-nos as aventuras de três amigos adoravelmente imprudentes que frequentam a academia espacial mais prestigiada do sistema solar. Estes nossos amigos aumentam desmesuradamente as mais pequenas tarefas transformando-as em loucas aventuras intergalácticas!(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132585/M" />
+    <episode-num system="onscreen">S1 E33</episode-num>
+  </programme>
+  <programme start="20191022131800 +0100" stop="20191022133000 +0100" channel="RTP 2">
+    <title lang="pt">3 AmigoNautas</title>
+    <desc lang="pt">Situado no futuro distante da Terra, 3 Amigonautas conta-nos as aventuras de três amigos adoravelmente imprudentes que frequentam a academia espacial mais prestigiada do sistema solar. Estes nossos amigos aumentam desmesuradamente as mais pequenas tarefas transformando-as em loucas aventuras intergalácticas!(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132587/M" />
+    <episode-num system="onscreen">S1 E34</episode-num>
+  </programme>
+  <programme start="20191022133000 +0100" stop="20191022135200 +0100" channel="RTP 2">
+    <title lang="pt">Casa</title>
+    <desc lang="pt">Crescer tem os seus desafios, mas crescer ao lado de um extraterrestre é uma história completamente diferente! Junta-te a Tip e a Oh e embarca numa grande aventura!(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132589/M" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20191022135200 +0100" stop="20191022140000 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+    <desc lang="pt">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132605/M" />
+  </programme>
+  <programme start="20191022140000 +0100" stop="20191022150300 +0100" channel="RTP 2">
+    <title lang="pt">Sociedade Civil</title>
+    <desc lang="pt">Devagar se vai ao longe. É isso mesmo que pretende o movimento slow, que existe há cerca de 30 anos. Viver mais lentamente, para viver melhor. Explicamos tudo no Sociedade Civil(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132591/M" />
+    <episode-num system="onscreen">S15 E144</episode-num>
+  </programme>
+  <programme start="20191022150300 +0100" stop="20191022153800 +0100" channel="RTP 2">
+    <title lang="pt">A Fé dos Homens</title>
+    <desc lang="pt">A Fé dos Homens(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132607/M" />
+  </programme>
+  <programme start="20191022153800 +0100" stop="20191022161700 +0100" channel="RTP 2">
+    <title lang="pt">Visita Guiada</title>
+    <desc lang="pt">Entre finais do séc. XIX e inícios do séc. XX, as potências europeias iniciaram um movimento que ficou conhecido como a Corrida a África. A Sociedade de Geografia de Lisboa, como as de Paris, Berlim, Londres, Viena, é fruto deste movimento(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13044343/M" />
+    <episode-num system="onscreen">S9 E16</episode-num>
+  </programme>
+  <programme start="20191022161700 +0100" stop="20191022171100 +0100" channel="RTP 2">
+    <title lang="pt">Planeta Safari</title>
+    <desc lang="pt">No Parque Nacional Etosha, o portão está aberto desde o nascer ao pôr do sol, ou seja, das seis da manhã às sete da tarde. A estação seca de junho a novembro é a melhor época para observar a vida selvagem. Neste período, os animais deixam o mato para se juntarem à volta dos últimos pontos de água. Etosha é um dos raros sítios onde a água flui naturalmente do solo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132593/M" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20191022171100 +0100" stop="20191022213000 +0100" channel="RTP 2">
+    <title lang="pt">Espaço Zig Zag</title>
+    <desc lang="pt">A magia e a aventura estão na RTP com o ZIG ZAG. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132595/M" />
+  </programme>
+  <programme start="20191022213000 +0100" stop="20191022220400 +0100" channel="RTP 2">
+    <title lang="pt">Jornal 2</title>
+    <desc lang="pt">O Jornal 2 contém as principais notícias da atualidade nacional e internacional. A equipa do Jornal 2 tem os factos, a investigação de cada um dos assuntos, a leitura do país e da sua realidade política e social feita por alguns dos protagonistas do momento e comentada por um alargado grupo de notáveis da sociedade civil com opinião feita de uma forte experiência de vida(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132609/M" />
+  </programme>
+  <programme start="20191022220400 +0100" stop="20191022221300 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+    <desc lang="pt">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132605/M" />
+  </programme>
+  <programme start="20191022221300 +0100" stop="20191022231200 +0100" channel="RTP 2">
+    <title lang="pt">A Vítima</title>
+    <desc lang="pt">Craig prepara-se para comparecer no tribunal. As ameaças contra ele e a sua família aumentam e as dúvidas de Rebecca sobre o marido são cada vez mais fortes. Estará ele a dizer-lhe toda a verdade?(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132597/M" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20191022231200 +0100" stop="20191022234200 +0100" channel="RTP 2">
+    <title lang="pt">Nada Será como Dante</title>
+    <desc lang="pt">Inspirados pelo universo dantesco d´A Divina Comédia, Filipa Leal e Pedro Lamares apresentam-nos, todas as semanas, um programa com Inferno, Paraíso e um Purgatório a meio com perguntas, dúvidas e confronto de argumentos para reflexão. Em cada uma das partes, nem sempre opostas, há segmentos de leitura, reportagens e rubricas voltadas para a importância da palavra escrita(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132599/M" />
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20191022234200 +0100" stop="20191023002000 +0100" channel="RTP 2">
+    <title lang="pt">Paris etc</title>
+    <desc lang="pt">Marianne conhece Erwin no armazém do hospital. Ao almoço, ele fala abertamente sobre sua selvagem vida sexual. Marianne, por outro lado, está passando por um período de 'seca', ela só terminou com Fred para conseguir uma reação dele. Erwin convence-a que o seu primeiro passo em direção à emancipação será tirar a carta de condução(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11639851/M" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20191022032500 +0100" stop="20191022053500 +0100" channel="SIC">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Aspiradores mais potentes do que o motor de um avião, colchões insufláveis, máquinas que transformam a flácida barriga em portentosos abdominais e mais, muito mais, à distância de um telefonema(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135119/M" />
+  </programme>
+  <programme start="20191022053500 +0100" stop="20191022060000 +0100" channel="SIC">
+    <title lang="pt">Os Malucos do Riso</title>
+    <desc lang="pt">Anedotas, chalaças, piadas e graçolas, ao longo de pequenos sketches(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135089/M" />
+  </programme>
+  <programme start="20191022060000 +0100" stop="20191022091500 +0100" channel="SIC">
+    <title lang="pt">Edição Da Manhã</title>
+    <desc lang="pt">Na Edição da Manhã, às notícias somam-se as primeiras páginas dos jornais, o trânsito em Lisboa e no Porto, a meteorologia, os mercados bolsistas e o Jornal de Economia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135122/M" />
+  </programme>
+  <programme start="20191022091500 +0100" stop="20191022101500 +0100" channel="SIC">
+    <title lang="pt">Alô Portugal</title>
+    <desc lang="pt">“Alô Portugal” é uma sala de estar e de conversar bem ao estilo do seu apresentador, José Figueiras e dos seus ilustres convidados e o ponto de encontro das comunidades portuguesas espalhadas pelos 5 continentes(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135092/M" />
+  </programme>
+  <programme start="20191022101500 +0100" stop="20191022130000 +0100" channel="SIC">
+    <title lang="pt">O Programa da Cristina</title>
+    <desc lang="pt">Cristina Ferreira conduz diariamente este talk-show como se estivesse na sua própria casa. A boa disposição está garantida e as surpresas farão parte do dia-a-dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135095/M" />
+    <episode-num system="onscreen">S1 E207</episode-num>
+  </programme>
+  <programme start="20191022130000 +0100" stop="20191022141500 +0100" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
+    <desc lang="pt">Toda a atualidade sobre as principais notícias do dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160912/M" />
+  </programme>
+  <programme start="20191022141500 +0100" stop="20191022151500 +0100" channel="SIC">
+    <title lang="pt">Linha Aberta</title>
+    <desc lang="pt">Linha Aberta, com Hernâni Carvalho um programa conduzido pelo próprio, que propõe analisar, debater, esmiuçar casos célebres da criminalidade e justiça portuguesa. Todos os dias será abordado um tema diferente. O tema do dia é lançado com uma peça de fundo, apoiada por testemunhos e por material de arquivo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135239/M" />
+    <episode-num system="onscreen">S5 E71</episode-num>
+  </programme>
+  <programme start="20191022151500 +0100" stop="20191022161500 +0100" channel="SIC">
+    <title lang="pt">Amor Maior</title>
+    <desc lang="pt">Clara quer resgatar as irmãs das mãos da madrasta, Francisca, para quem a maldade é uma verdadeira arte. Mas não será fácil, já que Clara comete alguns erros e se torna numa suposta criminosa em quem ninguém acredita a não ser Manuel, inspetor da Polícia Judiciária e o grande amor da sua vida(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/9565194/M" />
+    <episode-num system="onscreen">E145</episode-num>
+  </programme>
+  <programme start="20191022161500 +0100" stop="20191022181500 +0100" channel="SIC">
+    <title lang="pt">Júlia</title>
+    <desc lang="pt">Vidas inspiradoras, conversas inesquecíveis num espaço certo para receber, ouvir e surpreender. Histórias de vida que ficam para sempre. Um programa de Júlia Pinheiro(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135100/M" />
+    <episode-num system="onscreen">S2 E198</episode-num>
+  </programme>
+  <programme start="20191022181500 +0100" stop="20191022185000 +0100" channel="SIC">
+    <title lang="pt">Amor à Vida</title>
+    <desc lang="pt">Uma família rica envolve-se em conflitos e disputas pelo controlo de um famoso hospital na capital de São Paulo. O hospital é comandado pelo Doutor César Khoury, casado com Pilar, uma dermatologista e mãe dos seus dois filhos: Paloma, que acaba de entrar na faculdade de medicina, e Félix, o filho mais velho que não mostra aptidão para seguir a carreira da família(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/5565898/M" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20191022185000 +0100" stop="20191022192500 +0100" channel="SIC">
+    <title lang="pt">Avenida Brasil</title>
+    <desc lang="pt">A história dramática de Rita que perdeu o pai quando criança e foi abandonada pela madrasta, Carminha, tendo sido criada por Lucinda até ser levada para a Argentina. Anos mais tarde, volta ao Brasil como Nina para se vingar de Carminha que deu o 'golpe' no seu pai biológico, causando a morte dele..(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/5416389/M" />
+    <episode-num system="onscreen">E205</episode-num>
+  </programme>
+  <programme start="20191022192500 +0100" stop="20191022195700 +0100" channel="SIC">
+    <title lang="pt">Casados à Primeira Vista - Diários</title>
+    <desc lang="pt">Pessoas solteiras cuidadosamente selecionadas – todas já tentaram tudo por tudo para encontrar o verdadeiro amor, sem sucesso – põem agora nas mãos deste formato o sonho de encontrar o amor das suas vidas. Cada um dos candidatos casará com um estranho. Não se conhecem, mas têm muito em comum(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135107/M" />
+  </programme>
+  <programme start="20191022195700 +0100" stop="20191022214000 +0100" channel="SIC">
+    <title lang="pt">Jornal Da Noite</title>
+    <desc lang="pt">Toda a atualidade sobre as principais notícias do dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135128/M" />
+  </programme>
+  <programme start="20191022214000 +0100" stop="20191022222000 +0100" channel="SIC">
+    <title lang="pt">Nazaré</title>
+    <desc lang="pt">Gonçalo está muito arrependido do que fez. Verónica acha que não há nada de errado com o que aconteceu. Gonçalo sente-se culpado e vai embora(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135110/M" />
+    <episode-num system="onscreen">E32</episode-num>
+  </programme>
+  <programme start="20191022222000 +0100" stop="20191022230000 +0100" channel="SIC">
+    <title lang="pt">Golpe De Sorte</title>
+    <desc lang="pt">Em risco está também a surpresa que Telma havia preparado para o dia de casamento da mãe. Em pânico, sem saber o que fazer com o atraso do que tinha pedido, entra em cena Tino com uma solução eficaz e espetacular(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135113/M" />
+    <episode-num system="onscreen">S3 E29</episode-num>
+  </programme>
+  <programme start="20191022230000 +0100" stop="20191022234500 +0100" channel="SIC">
+    <title lang="pt">Casados à Primeira Vista - Extra</title>
+    <desc lang="pt">Pessoas solteiras cuidadosamente selecionadas – todas já tentaram tudo por tudo para encontrar o verdadeiro amor, sem sucesso – põem agora nas mãos deste formato o sonho de encontrar o amor das suas vidas. Cada um dos candidatos casará com um estranho. Não se conhecem, mas têm muito em comum. Apresentado por Diana Chaves(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160915/M" />
+  </programme>
+  <programme start="20191022234500 +0100" stop="20191023003000 +0100" channel="SIC">
+    <title lang="pt">A Dona Do Pedaço</title>
+    <desc lang="pt">Maria da Paz é uma jovem humilde que se apaixona por Amadeu, um advogado e membro de uma família de negócios. No dia do seu casamento, Maria da Paz e Amadeu são afastados por uma tragédia. A Dona do Pedaço fala da certeza de que todos podem encontrar seu lugar no mundo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135116/M" />
+    <episode-num system="onscreen">E102</episode-num>
+  </programme>
+  <programme start="20191022031500 +0100" stop="20191022040900 +0100" channel="TVI">
+    <title lang="pt">Remédio Santo</title>
+    <desc lang="pt">Há trinta anos, Violante estava de casamento marcado com o ambicioso Daniel, inconformado com a pobre vida que tinha. Sequioso de ascensão social, Daniel não hesitou em trocar a namorada pobre e que esperava um filho seu, pela milionária Eugénia Monforte(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/3862652/M" />
+    <episode-num system="onscreen">E166</episode-num>
+  </programme>
+  <programme start="20191022040900 +0100" stop="20191022050000 +0100" channel="TVI">
+    <title lang="pt">Saber Amar</title>
+    <desc lang="pt">A história de Diana que viveu durante seis anos nos EUA, onde estudou Biologia Marinha. Regressa ao Algarve, a Lagos, com o sonho de estudar a relação entre os golfinhos e as crianças com problemas de inserção social. Para isso, vai tentar arranjar trabalho no Zoomarinho (o parque oceanográfico Zoomarine, na freguesia da Guia, Algarve(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135909/M" />
+    <episode-num system="onscreen">E165</episode-num>
+  </programme>
+  <programme start="20191022050000 +0100" stop="20191022063000 +0100" channel="TVI">
+    <title lang="pt">TV Shop</title>
+    <desc lang="pt">Aspiradores mais potentes do que o motor de um avião, colchões insufláveis, máquinas que transformam a flácida barriga em portentosos abdominais e mais, muito mais, à distância de um telefonema(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135923/M" />
+  </programme>
+  <programme start="20191022063000 +0100" stop="20191022101400 +0100" channel="TVI">
+    <title lang="pt">Diário Da Manhã</title>
+    <desc lang="pt">A partir das 6:30 da manhã chegam as primeiras notícias do dia, uma síntese dos principais jornais e revistas, bem como informações do trânsito e o estado do tempo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135925/M" />
+  </programme>
+  <programme start="20191022101400 +0100" stop="20191022130000 +0100" channel="TVI">
+    <title lang="pt">Você Na TV!</title>
+    <desc lang="pt">Manuel Luís Goucha e Maria Cerqueira Gomes são os anfitriões das manhãs da TVI. Novo estúdio, novas rubricas com a melhor dupla de apresentadores que irá ao encontro dos portugueses de 2ª a 6ª feira. Jogos, passatempos, eventos e momentos de reportagem de vários pontos do país(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135911/M" />
+  </programme>
+  <programme start="20191022130000 +0100" stop="20191022144700 +0100" channel="TVI">
+    <title lang="pt">Jornal Da Uma</title>
+    <desc lang="pt">A primeira síntese de informação do dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135927/M" />
+  </programme>
+  <programme start="20191022144700 +0100" stop="20191022161500 +0100" channel="TVI">
+    <title lang="pt">Belmonte</title>
+    <desc lang="pt">A família Belmonte está ligada à história ancestral da terra, mas Emílio, o último descendente da família, casou com Clarisse, uma mulher que não podia ter filhos e, por tal, para a sobrevivência do nome, o casal foi adotando as crianças(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/6167517/M" />
+    <episode-num system="onscreen">E137</episode-num>
+  </programme>
+  <programme start="20191022161500 +0100" stop="20191022191300 +0100" channel="TVI">
+    <title lang="pt">A Tarde É Sua</title>
+    <desc lang="pt">Fátima Lopes faz-lhe companhia todas as tardes, com um programa muito especial onde a boa disposição da apresentadora nunca irá faltar. Os temas centram-se em todas as áreas da sociedade: a saúde, a família, as finanças, os afetos, os famosos, a moda e as grandes polémicas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135914/M" />
+  </programme>
+  <programme start="20191022191300 +0100" stop="20191022195600 +0100" channel="TVI">
+    <title lang="pt">Ver P’ra Crer</title>
+    <desc lang="pt">Um concurso divertido e didático onde haverá sempre um vencedor. Com Ana Guiomar e Rita Salema como capitãs de cada uma das equipas, também o público que estiver sentado atrás do vencedor fica a ganhar. Apresentado por Pedro Fernandes(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135916/M" />
+  </programme>
+  <programme start="20191022195600 +0100" stop="20191022213500 +0100" channel="TVI">
+    <title lang="pt">Jornal Das 8</title>
+    <desc lang="pt">As notícias que marcam a atualidade do dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135929/M" />
+  </programme>
+  <programme start="20191022213500 +0100" stop="20191022222500 +0100" channel="TVI">
+    <title lang="pt">Na Corda Bamba</title>
+    <desc lang="pt">“Na Corda Bamba” prima pela surpresa constante e aborda uma questão universal: até onde estaria disposto a ir para realizar um sonho? Lúcia e Pipo são um casal com um forte segredo que envolve os seus filhos, o que os faz viver numa tensão constante, sempre na iminência de que se descubra que… os seus filhos são roubados!(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135918/M" />
+    <episode-num system="onscreen">E34</episode-num>
+  </programme>
+  <programme start="20191022222500 +0100" stop="20191022234000 +0100" channel="TVI">
+    <title lang="pt">Prisioneira</title>
+    <desc lang="pt">a história de um médico muçulmano, revolucionário que luta por um mundo melhor. A aventura começa quando se apaixona loucamente por uma portuguesa e resgata-a de uma vida pouco fértil de amor(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13135920/M" />
+    <episode-num system="onscreen">E135</episode-num>
+  </programme>
+  <programme start="20191022234000 +0100" stop="20191023005000 +0100" channel="TVI">
+    <title lang="pt">Mar De Paixão</title>
+    <desc lang="pt">Benedita, um coração que bate, uma história de ternura e amor para contar. Benedita, coração de sereia, mulher da terra, rainha do mar(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/2489428/M" />
+    <episode-num system="onscreen">E42</episode-num>
+  </programme>
+  <programme start="20191022021000 +0100" stop="20191022040000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">O Dia Seguinte</title>
+    <desc lang="pt">Programa semanal dedicado ao desporto, onde o tema central é a Primeira Liga de Futebol profissional. Apresentado por João Abreu, conta com Vasco Mendonça, Rodrigo Roquette e Paulo Baldaia no painel de comentadores(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13155717/M" />
+    <episode-num system="onscreen">S12 E34</episode-num>
+  </programme>
+  <programme start="20191022040000 +0100" stop="20191022040500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Golf Report</title>
+    <desc lang="pt">Espaço dedicado à informação sobre Golfe(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13126908/M" />
+    <episode-num system="onscreen">S12 E42</episode-num>
+  </programme>
+  <programme start="20191022040500 +0100" stop="20191022042500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Vida Extra</title>
+    <desc lang="pt">Parta à descoberta das melhores sugestões de lazer. Com o Vida Extra fique a conhecer os melhores locais para comer ou dormir. Dicas de roteiros e viagens para aproveitar (ainda) melhor os seus tempos livres. Exposições e lojas da moda. Sem esquecer, as atividades dedicadas às famílias e aos mais novos(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13126956/M" />
+    <episode-num system="onscreen">S2 E32</episode-num>
+  </programme>
+  <programme start="20191022042500 +0100" stop="20191022051000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Original É A Cultura</title>
+    <desc lang="pt">Original É A Cultura T1 - Ep. 4(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13126991/M" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20191022051000 +0100" stop="20191022052000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Contas Poupança</title>
+    <desc lang="pt">Em tempos de crise, o dinheiro ganha outro valor. Neste programa são apresentadas propostas para poupanças no orçamento familiar(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13026825/M" />
+    <episode-num system="onscreen">S5 E26</episode-num>
+  </programme>
+  <programme start="20191022052000 +0100" stop="20191022053500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Cartaz</title>
+    <desc lang="pt">Um espaço com todas as novidades sobre os principais eventos culturais em Portugal(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/5804435/M" />
+    <episode-num system="onscreen">E206</episode-num>
+  </programme>
+  <programme start="20191022053500 +0100" stop="20191022060000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Primeira Página</title>
+    <desc lang="pt">Revista de imprensa dos jornais diários, com reportagens sobre os principais temas abordados(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10364024/M" />
+    <episode-num system="onscreen">E208</episode-num>
+  </programme>
+  <programme start="20191022060000 +0100" stop="20191022094500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Edição Da Manhã</title>
+    <desc lang="pt">A atualidade nacional e internacional. Inclui informações sobre o trânsito, meteorologia, bolsa, desporto e revista de imprensa(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13155727/M" />
+  </programme>
+  <programme start="20191022094500 +0100" stop="20191022100000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Contas Poupança</title>
+    <desc lang="pt">Em tempos de crise, o dinheiro ganha outro valor. Neste programa são apresentadas propostas para poupanças no orçamento familiar(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13026825/M" />
+    <episode-num system="onscreen">S5 E26</episode-num>
+  </programme>
+  <programme start="20191022100000 +0100" stop="20191022110000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Das 10</title>
+    <desc lang="pt">Toda a atualidade do dia, a nível nacional e internacional(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13155730/M" />
+  </programme>
+  <programme start="20191022110000 +0100" stop="20191022111000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <desc lang="pt">A informação sempre à hora certa com os temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13155739/M" />
+  </programme>
+  <programme start="20191022111000 +0100" stop="20191022120000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Opinião Pública</title>
+    <desc lang="pt">Através do telefone ou por e-mail, todos os dias úteis, é dada aos espetadores a oportunidade de expressarem a sua opinião, podendo debater os assuntos mais importantes do quotidiano(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13155733/M" />
+  </programme>
+  <programme start="20191022120000 +0100" stop="20191022130000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Do Meio Dia</title>
+    <desc lang="pt">Toda a atualidade nacional e internacional, incluindo as informações sobre o mundo do desporto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13155736/M" />
+  </programme>
+  <programme start="20191022130000 +0100" stop="20191022133000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <desc lang="pt">A informação sempre à hora certa com os temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13155739/M" />
+  </programme>
+  <programme start="20191022133000 +0100" stop="20191022134500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Boa Cama, Boa Mesa</title>
+    <desc lang="pt">Um programa sobre o prazer de viajar, conhecer, experimentar e sentir baseado na seleção dos melhores alojamentos e restaurantes de Portugal, elaborada pelo guia Boa Cama Boa Mesa(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13126920/M" />
+    <episode-num system="onscreen">S12 E3</episode-num>
+  </programme>
+  <programme start="20191022134500 +0100" stop="20191022142500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Das 2</title>
+    <desc lang="pt">Toda a atualidade do dia, a nível nacional e internacional(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13155742/M" />
+  </programme>
+  <programme start="20191022142500 +0100" stop="20191022163000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Edição Da Tarde</title>
+    <desc lang="pt">Na “Edição da Tarde” fique a par de toda a atualidade nacional e internacional, das novidades do cartaz de eventos em Portugal e da informação desportiva(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160921/M" />
+  </programme>
+  <programme start="20191022163000 +0100" stop="20191022170000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Desporto</title>
+    <desc lang="pt">Acompanhe nesta emissão de 'Desporto' toda a informação atualizada sobre o mundo desportivo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13155750/M" />
+  </programme>
+  <programme start="20191022170000 +0100" stop="20191022185500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Edição Da Tarde</title>
+    <desc lang="pt">Na “Edição da Tarde” fique a par de toda a atualidade nacional e internacional, das novidades do cartaz de eventos em Portugal e da informação desportiva(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160924/M" />
+  </programme>
+  <programme start="20191022185500 +0100" stop="20191022195700 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Das 7</title>
+    <desc lang="pt">Toda a atualidade do dia, a nível nacional e internacional(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13155756/M" />
+  </programme>
+  <programme start="20191022195700 +0100" stop="20191022210000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Da Noite</title>
+    <desc lang="pt">Em simultâneo com a SIC, as notícias da atualidade nacional e internacional(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13155759/M" />
+  </programme>
+  <programme start="20191022210000 +0100" stop="20191022230000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Edição Da Noite</title>
+    <desc lang="pt">A atualidade do dia. Inclui informações sobre meteorologia, bolsa, revista de imprensa e desporto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160927/M" />
+  </programme>
+  <programme start="20191022230000 +0100" stop="20191022235800 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Tempo Extra</title>
+    <desc lang="pt">Rui Santos faz a análise dos últimos acontecimentos futebolísticos, com o que de melhor e de pior se passou, ao longo da semana(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/5740340/M" />
+    <episode-num system="onscreen">E38</episode-num>
+  </programme>
+  <programme start="20191022235800 +0100" stop="20191023010000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Da Meia Noite</title>
+    <desc lang="pt">Atualização dos últimos acontecimentos a nível nacional e internacional(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13155720/M" />
+  </programme>
+  <programme start="20191022032500 +0100" stop="20191022040000 +0100" channel="RTP 3">
+    <title lang="pt">Visita Guiada</title>
+    <desc lang="pt">Este é um programa que dá a conhecer o Património Cultural português. Em cada emissão, elege-se uma peça-protagonista selecionada num arco temporal de cerca de mil anos e considerando todo o território nacional. Com autoria e apresentação de Paula Moura Pinheiro(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13157255/M" />
+  </programme>
+  <programme start="20191022040000 +0100" stop="20191022043000 +0100" channel="RTP 3">
+    <title lang="pt">Europa Minha</title>
+    <desc lang="pt">Série de 30 programas que segue o trabalho das instituições europeias com destaque para os principais temas de atualidade europeia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132890/M" />
+  </programme>
+  <programme start="20191022043000 +0100" stop="20191022050000 +0100" channel="RTP 3">
+    <title lang="pt">3 Às 15</title>
+    <desc lang="pt">Noticiário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132912/M" />
+  </programme>
+  <programme start="20191022050000 +0100" stop="20191022053000 +0100" channel="RTP 3">
+    <title lang="pt">24 Horas</title>
+    <desc lang="pt">O que mais importante aconteceu nas últimas 24 horas. Um olhar sobre o dia que termina e a perspetiva do novo dia que começa(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13157257/M" />
+  </programme>
+  <programme start="20191022053000 +0100" stop="20191022060000 +0100" channel="RTP 3">
+    <title lang="pt">Telejornal Açores</title>
+    <desc lang="pt">Todos os dias a RTP-Açores leva aos açorianos a atualização de toda a informação da região do país e do mundo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132896/M" />
+  </programme>
+  <programme start="20191022060000 +0100" stop="20191022063000 +0100" channel="RTP 3">
+    <title lang="pt">Telejornal Madeira</title>
+    <desc lang="pt">Para os espetadores da Região e da diáspora madeirense espalhada pelo mundo. O Telejornal da televisão mais próxima de si está no ar desde 1972 com uma informação de proximidade e a garantia de qualidade do serviço público(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132894/M" />
+  </programme>
+  <programme start="20191022063000 +0100" stop="20191022100000 +0100" channel="RTP 3">
+    <title lang="pt">Bom Dia Portugal</title>
+    <desc lang="pt">As primeiras notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132900/M" />
+  </programme>
+  <programme start="20191022100000 +0100" stop="20191022110000 +0100" channel="RTP 3">
+    <title lang="pt">3 Às 10</title>
+    <desc lang="pt">Noticiário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132902/M" />
+  </programme>
+  <programme start="20191022110000 +0100" stop="20191022120000 +0100" channel="RTP 3">
+    <title lang="pt">3 Às 11</title>
+    <desc lang="pt">Noticiário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132904/M" />
+  </programme>
+  <programme start="20191022120000 +0100" stop="20191022130000 +0100" channel="RTP 3">
+    <title lang="pt">Jornal Das 12</title>
+    <desc lang="pt">Jornal do dia, notícias do país e do mundo e também desporto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132906/M" />
+  </programme>
+  <programme start="20191022130000 +0100" stop="20191022142000 +0100" channel="RTP 3">
+    <title lang="pt">Tupamaro: Guerrilha Urbana</title>
+    <desc lang="pt">Este documentário narra 7 anos turbulentos na vida de Alberto 'Chino' Carias, um ex-guerrilheiro e líder tupamaro, que se destacou após a eleição de Hugo Chávez em 1999(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160788/M" />
+  </programme>
+  <programme start="20191022142000 +0100" stop="20191022150000 +0100" channel="RTP 3">
+    <title lang="pt">3 Às 14</title>
+    <desc lang="pt">Noticiário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132910/M" />
+  </programme>
+  <programme start="20191022150000 +0100" stop="20191022153000 +0100" channel="RTP 3">
+    <title lang="pt">3 Às 15</title>
+    <desc lang="pt">Noticiário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132912/M" />
+  </programme>
+  <programme start="20191022153000 +0100" stop="20191022154500 +0100" channel="RTP 3">
+    <title lang="pt">Eixo Norte Sul</title>
+    <desc lang="pt">Um espaço de informação regional, com reportagens e entrevistas, apresentado por Dina Aguiar(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132892/M" />
+  </programme>
+  <programme start="20191022154500 +0100" stop="20191022160000 +0100" channel="RTP 3">
+    <title lang="pt">Zoom África</title>
+    <desc lang="pt">Toda a informação sobre o continente africano. De segunda a sexta, tudo o que importa saber: da política à economia, do desporto à cultura e às curiosidades(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132914/M" />
+  </programme>
+  <programme start="20191022160000 +0100" stop="20191022170000 +0100" channel="RTP 3">
+    <title lang="pt">3 Às 16</title>
+    <desc lang="pt">Noticiário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132916/M" />
+  </programme>
+  <programme start="20191022170000 +0100" stop="20191022174000 +0100" channel="RTP 3">
+    <title lang="pt">3 Às 17</title>
+    <desc lang="pt">Noticiário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132918/M" />
+  </programme>
+  <programme start="20191022174000 +0100" stop="20191022180000 +0100" channel="RTP 3">
+    <title lang="pt">Europa Minha</title>
+    <desc lang="pt">Série de 30 programas que segue o trabalho das instituições europeias com destaque para os principais temas de atualidade europeia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132890/M" />
+  </programme>
+  <programme start="20191022180000 +0100" stop="20191022195000 +0100" channel="RTP 3">
+    <title lang="pt">18/20</title>
+    <desc lang="pt">Duas horas de informação ao final da tarde. Quando os portugueses regressam a casa, o 18/20 propõe a análise, a reportagem e o direto dos acontecimentos que estão a marcar a agenda informativa. Em direto a partir do Porto, 18/20 inclui as rubricas de Economia 3, Desporto 3 e Opinião 3(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132920/M" />
+  </programme>
+  <programme start="20191022195000 +0100" stop="20191022200000 +0100" channel="RTP 3">
+    <title lang="pt">As Horas Extraordinárias</title>
+    <desc lang="pt">Magazine de artes e cultura(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132880/M" />
+  </programme>
+  <programme start="20191022200000 +0100" stop="20191022210000 +0100" channel="RTP 3">
+    <title lang="pt">Yemen - A Guerra Esquecida</title>
+    <desc lang="pt">Há uma guerra no Yémen sobre a qual o mundo pouco fala.Com uma população de 28 milhões de pessoas, 22 milhões dependem da ajuda humanitária e 8 milhões estão a correr o risco de morrer de fome. Uma rara visão do interior do país que nos é proposta neste documentário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160784/M" />
+  </programme>
+  <programme start="20191022210000 +0100" stop="20191022230000 +0100" channel="RTP 3">
+    <title lang="pt">360</title>
+    <desc lang="pt">A notícia vista de todos os ângulos e de todos os pontos de vista. No 360º aprofundamos e descodificamos os acontecimentos. Não basta saber o que se passa, é preciso compreender a realidade à nossa volta. Com a jornalista Ana Lourenço(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160786/M" />
+  </programme>
+  <programme start="20191022230000 +0100" stop="20191022230500 +0100" channel="RTP 3">
+    <title lang="pt">3 Às 23</title>
+    <desc lang="pt">Noticiário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132926/M" />
+  </programme>
+  <programme start="20191022230500 +0100" stop="20191023000000 +0100" channel="RTP 3">
+    <title lang="pt">O Outro Lado</title>
+    <desc lang="pt">Programa semanal de debate sobre os principais assuntos nacionais e internacionais da semana, feito por alguns dos mais destacados nomes da nova geração de comentadores portugueses. Um debate que será feito também com acompanhamento em direto, através das redes sociais, e com a participação dos espetadores(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132924/M" />
+  </programme>
+  <programme start="20191022035500 +0100" stop="20191022043000 +0100" channel="TVI24">
+    <title lang="pt">25ª Hora</title>
+    <desc lang="pt">Tempo de olhar o dia que passou e antecipar o novo tempo que está a chegar. Todas as noites, chega o espaço informativo da '25ª Hora'(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13142189/M" />
+  </programme>
+  <programme start="20191022043000 +0100" stop="20191022063000 +0100" channel="TVI24">
+    <title lang="pt">TV Shop</title>
+    <desc lang="pt">Aspiradores mais potentes do que o motor de um avião, colchões insufláveis, máquinas que transformam a flácida barriga em portentosos abdominais e mais, muito mais, à distância de um telefonema(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13142197/M" />
+  </programme>
+  <programme start="20191022063000 +0100" stop="20191022100000 +0100" channel="TVI24">
+    <title lang="pt">Diário Da Manhã</title>
+    <desc lang="pt">As primeiras notícias do dia e toda a informação atualizada sobre o estado do trânsito, as condições meteorológicas e o mercado da bolsa(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13142199/M" />
+  </programme>
+  <programme start="20191022100000 +0100" stop="20191022130000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <desc lang="pt">As notícias ao longo do dia, com reportagem, comentário, opinião, debate e espaço para rubricas diversas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160932/M" />
+  </programme>
+  <programme start="20191022130000 +0100" stop="20191022143200 +0100" channel="TVI24">
+    <title lang="pt">Jornal Da Uma</title>
+    <desc lang="pt">A primeira síntese de informação do dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13142203/M" />
+  </programme>
+  <programme start="20191022143200 +0100" stop="20191022181000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <desc lang="pt">As notícias ao longo do dia, com reportagem, comentário, opinião, debate e espaço para rubricas diversas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160934/M" />
+  </programme>
+  <programme start="20191022181000 +0100" stop="20191022190000 +0100" channel="TVI24">
+    <title lang="pt">Mais Bastidores - Tarde</title>
+    <desc lang="pt">Um olhar sobre todas as jogadas dos bastidores do futebol português. Tudo o que se passa, dia a dia, dentro dos balneários dos clubes, as palavras dos treinadores e as reações dos jogadores(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13142207/M" />
+  </programme>
+  <programme start="20191022190000 +0100" stop="20191022195500 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <desc lang="pt">As notícias ao longo do dia, com reportagem, comentário, opinião, debate e espaço para rubricas diversas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13142201/M" />
+  </programme>
+  <programme start="20191022195500 +0100" stop="20191022213000 +0100" channel="TVI24">
+    <title lang="pt">Hóquei: Sporting x Oliveirense - Camp. Nacional (Direto)</title>
+    <desc lang="pt">Transmissão do jogo de Hóquei a contar para o Campeonato Nacional(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160936/M" />
+  </programme>
+  <programme start="20191022213000 +0100" stop="20191022215000 +0100" channel="TVI24">
+    <title lang="pt">Notícias</title>
+    <desc lang="pt">As notícias ao longo do dia, com reportagem, comentário, opinião, debate e espaço para rubricas diversas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13142205/M" />
+  </programme>
+  <programme start="20191022215000 +0100" stop="20191022230000 +0100" channel="TVI24">
+    <title lang="pt">Liga dos Campeões - Análise</title>
+    <desc lang="pt">Análise dos jogos da Liga dos Campeões(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160938/M" />
+  </programme>
+  <programme start="20191022230000 +0100" stop="20191023001500 +0100" channel="TVI24">
+    <title lang="pt">Ana Leal</title>
+    <desc lang="pt">Programa de informação dedicado ao jornalismo de investigação(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160940/M" />
+  </programme>
+  <programme start="20191022023000 +0100" stop="20191022041300 +0100" channel="CMTV">
+    <title lang="pt">Perigo Íntimo</title>
+    <desc lang="pt">'Perigo Íntimo', é a história de Tom OMeara (Harrison Ford) e Frankie McGuire (Brad Pitt). O primeiro é um polícia de Nova York e o outro um terrorista irlandês. Quando Devaney chega aos Estados Unidos com uma missão, disfarça-se de jovem emigrante, fugindo dos problemas do seu país(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13125831/M" />
+  </programme>
+  <programme start="20191022041300 +0100" stop="20191022043300 +0100" channel="CMTV">
+    <title lang="pt">Alguém Perdeu</title>
+    <desc lang="pt">Madalena, empresária rica e poderosa do ramo da saúde, sente-se culpada pela morte do único neto, ocorrida acidentalmente na piscina da casa de família quando o menino estava ao seu cuidado. A morte da criança faz com que Leonor, única filha de Madalena, entre numa espiral de destruição e loucura, pondo em risco a sua carreira, assim como o seu casamento com o ambicioso Bruno(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13125834/M" />
+    <episode-num system="onscreen">E127</episode-num>
+  </programme>
+  <programme start="20191022043300 +0100" stop="20191022044700 +0100" channel="CMTV">
+    <title lang="pt">Falar Global</title>
+    <desc lang="pt">Magazine de novas tecnologias, tendências, comportamentos e inovação que marca a sociedade portuguesa conduzido por Reginaldo Rodrigues de Almeida(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13066525/M" />
+    <episode-num system="onscreen">S8 E35</episode-num>
+  </programme>
+  <programme start="20191022044700 +0100" stop="20191022050000 +0100" channel="CMTV">
+    <title lang="pt">Falar Global</title>
+    <desc lang="pt">Magazine de novas tecnologias, tendências, comportamentos e inovação que marca a sociedade portuguesa conduzido por Reginaldo Rodrigues de Almeida(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13023034/M" />
+    <episode-num system="onscreen">S8 E34</episode-num>
+  </programme>
+  <programme start="20191022050000 +0100" stop="20191022060000 +0100" channel="CMTV">
+    <title lang="pt">Rua Segura</title>
+    <desc lang="pt">Magali Pinto analisa, com os seus convidados, temáticas de segurança, prevenção de crime, com relevo para a reportagem jornalística e de investigação, de reporte de ocorrências com acompanhamento da actualidade relevante(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/5991807/M" />
+    <episode-num system="onscreen">E210</episode-num>
+  </programme>
+  <programme start="20191022060000 +0100" stop="20191022090800 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <desc lang="pt">Síntese das principais notícias, em direto da redação do Correio da Manhã(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13125851/M" />
+  </programme>
+  <programme start="20191022090800 +0100" stop="20191022105700 +0100" channel="CMTV">
+    <title lang="pt">Manhã CM</title>
+    <desc lang="pt">Nuno Eiró e Maya, em estúdio, apresentam o 'Manhã CM'. Informação de hora a hora, trânsito, humor, concursos, música, emoção e muita diversão(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/9141975/M" />
+    <episode-num system="onscreen">E211</episode-num>
+  </programme>
+  <programme start="20191022105700 +0100" stop="20191022113000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <desc lang="pt">Síntese das principais notícias, em direto da redação do Correio da Manhã(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13125846/M" />
+  </programme>
+  <programme start="20191022113000 +0100" stop="20191022115700 +0100" channel="CMTV">
+    <title lang="pt">Flash Vidas</title>
+    <desc lang="pt">Noticiário de atualidade social, com a marca da revista Flash e da secção Vidas do Correio da Manhã. Tudo o que é notícia no mundo cor-de-rosa está no Flash Vidas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/5787511/M" />
+    <episode-num system="onscreen">E211</episode-num>
+  </programme>
+  <programme start="20191022115700 +0100" stop="20191022123000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <desc lang="pt">Síntese das principais notícias, em direto da redação do Correio da Manhã(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13125846/M" />
+  </programme>
+  <programme start="20191022123000 +0100" stop="20191022145700 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal Hora Do Almoço</title>
+    <desc lang="pt">Andreia Vale, de segunda a sexta, e João Ferreira, aos fins-de-semana, apresentam as principais notícias do dia. Jornalismo de proximidade, com a marca Correio da Manhã, à hora de almoço(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13125854/M" />
+  </programme>
+  <programme start="20191022145700 +0100" stop="20191022151500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <desc lang="pt">Síntese das principais notícias, em direto da redação do Correio da Manhã(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13125857/M" />
+  </programme>
+  <programme start="20191022151500 +0100" stop="20191022153000 +0100" channel="CMTV">
+    <title lang="pt">Cristal</title>
+    <desc lang="pt">São Paulo, 2006 - Empresária de moda de renome, Vitória Ascânio é proprietária da Maison Vitória’, prestigiada marca de alta costura. Poderosa e dominadora, quem conhece a sofisticada Vitória de hoje jamais poderia suspeitar do seu passado(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13125841/M" />
+    <episode-num system="onscreen">E501</episode-num>
+  </programme>
+  <programme start="20191022153000 +0100" stop="20191022175500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <desc lang="pt">Síntese das principais notícias, em direto da redação do Correio da Manhã(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13125860/M" />
+  </programme>
+  <programme start="20191022175500 +0100" stop="20191022185700 +0100" channel="CMTV">
+    <title lang="pt">Mercado</title>
+    <desc lang="pt">Noticiário desportivo de eleição com foco nos desempenhos desportivos de todos os agentes desportivos. Acompanhamento a par e passo das transferências principais, investimentos reais dos maiores clubes e análise avalizada dos melhores especialistas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/5639399/M" />
+    <episode-num system="onscreen">E124</episode-num>
+  </programme>
+  <programme start="20191022185700 +0100" stop="20191022194500 +0100" channel="CMTV">
+    <title lang="pt">Jornal Às 7</title>
+    <desc lang="pt">Todas as principais notícias do dia e o lançamento dos temas que marcam a atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13125865/M" />
+  </programme>
+  <programme start="20191022194500 +0100" stop="20191022211000 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal 20H</title>
+    <desc lang="pt">José Carlos Castro, de segunda a sexta, e João Ferreira, aos fins-de-semana, apresentam o grande noticiário de horário nobre, na antena da CMTV. Jornalismo nacional e de proximidade, com a marca do líder Correio da Manhã(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13125868/M" />
+  </programme>
+  <programme start="20191022211000 +0100" stop="20191022214500 +0100" channel="CMTV">
+    <title lang="pt">Investigação CM</title>
+    <desc lang="pt">Programa diário de investigação jornalística. A excelência do jornalismo de investigação do Correio da Manhã, todos os dias em horário nobre. Da política ao futebol, passando por todos os outros quadrantes da sociedade portuguesa. Nada escapa ao escrutínio da equipa de investigação CM(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13125871/M" />
+  </programme>
+  <programme start="20191022214500 +0100" stop="20191023003000 +0100" channel="CMTV">
+    <title lang="pt">Liga D´Ouro</title>
+    <desc lang="pt">As emoções do futebol jogam-se todos os dias. De terça a sexta feira todas as novidades dos grandes do futebol a caminho de mais uma jornada de golos, polémicas, alegrias e tristezas para Benfica, Sporting e Porto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11724388/M" />
+    <episode-num system="onscreen">E198</episode-num>
+  </programme>
+  <programme start="20191022023000 +0100" stop="20191022040500 +0100" channel="SPORT TV +">
+    <title lang="pt">Titulares</title>
+    <desc lang="pt">Este programa faz o balanço da jornada futebolística(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150399/M" />
+  </programme>
+  <programme start="20191022040500 +0100" stop="20191022043500 +0100" channel="SPORT TV +">
+    <title lang="pt">Liga Italiana: 8ª Jornada (Resumo)</title>
+    <desc lang="pt">Resumo dos melhores momentos da Liga Italiana(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150401/M" />
+  </programme>
+  <programme start="20191022043500 +0100" stop="20191022050500 +0100" channel="SPORT TV +">
+    <title lang="pt">Premier League: 9ª Jornada (Resumo)</title>
+    <desc lang="pt">Resumo dos melhores momentos da Premier League(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150403/M" />
+  </programme>
+  <programme start="20191022050500 +0100" stop="20191022060000 +0100" channel="SPORT TV +">
+    <title lang="pt">UFC: Reyes x Weidman - Boston</title>
+    <desc lang="pt">Transmissão do combate a contar para o UFC(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150405/M" />
+  </programme>
+  <programme start="20191022060000 +0100" stop="20191022070000 +0100" channel="SPORT TV +">
+    <title lang="pt">Golfe: Golfing World</title>
+    <desc lang="pt">Magazine dedicado ao mundo do Golfe(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150407/M" />
+  </programme>
+  <programme start="20191022070000 +0100" stop="20191022075500 +0100" channel="SPORT TV +">
+    <title lang="pt">Liga Europa: Magazine</title>
+    <desc lang="pt">Magazine da Liga Europa(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150409/M" />
+  </programme>
+  <programme start="20191022075500 +0100" stop="20191022095500 +0100" channel="SPORT TV +">
+    <title lang="pt">Manhã Informativa</title>
+    <desc lang="pt">Lançamento do dia informativo através dos principais jornais nacionais e internacionais e viagem pelas redes sociais dos protagonistas do desporto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150411/M" />
+  </programme>
+  <programme start="20191022095500 +0100" stop="20191022102500 +0100" channel="SPORT TV +">
+    <title lang="pt">Sheffield United x Arsenal - Premier League</title>
+    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150413/M" />
+  </programme>
+  <programme start="20191022102500 +0100" stop="20191022111500 +0100" channel="SPORT TV +">
+    <title lang="pt">Notícias</title>
+    <desc lang="pt">Toda a atualidade desportiva(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150415/M" />
+  </programme>
+  <programme start="20191022111500 +0100" stop="20191022114000 +0100" channel="SPORT TV +">
+    <title lang="pt">Melhor Jogo Do Fim De Semana</title>
+    <desc lang="pt">0(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150417/M" />
+  </programme>
+  <programme start="20191022114000 +0100" stop="20191022115500 +0100" channel="SPORT TV +">
+    <title lang="pt">Liga Francesa: 10ª Jornada (Resumo)</title>
+    <desc lang="pt">Resumo dos melhores momentos da Liga Francesa(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150397/M" />
+  </programme>
+  <programme start="20191022115500 +0100" stop="20191022130000 +0100" channel="SPORT TV +">
+    <title lang="pt">Grande Jornal</title>
+    <desc lang="pt">Acompanhamento exaustivo da jornada desportiva com sinalização de golos, resultados e classificações. Antevisões e rescaldos em direto dos principais jogos e os resumos de todos os jogos dos campeonatos português, inglês, espanhol, alemão, italiano e francês(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150419/M" />
+  </programme>
+  <programme start="20191022130000 +0100" stop="20191022135500 +0100" channel="SPORT TV +">
+    <title lang="pt">Wrestling: Smackdown</title>
+    <desc lang="pt">Acompanhe mais um evento da WWE(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150421/M" />
+  </programme>
+  <programme start="20191022135500 +0100" stop="20191022142000 +0100" channel="SPORT TV +">
+    <title lang="pt">Notícias</title>
+    <desc lang="pt">Toda a atualidade desportiva(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150415/M" />
+  </programme>
+  <programme start="20191022142000 +0100" stop="20191022155500 +0100" channel="SPORT TV +">
+    <title lang="pt">Titulares</title>
+    <desc lang="pt">Este programa faz o balanço da jornada futebolística(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150399/M" />
+  </programme>
+  <programme start="20191022155500 +0100" stop="20191022163000 +0100" channel="SPORT TV +">
+    <title lang="pt">Central + (Direto)</title>
+    <desc lang="pt">Programa de informação com destaque aos grandes temas do dia, do mundo, do desporto nacional e internacional(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150423/M" />
+  </programme>
+  <programme start="20191022163000 +0100" stop="20191022170000 +0100" channel="SPORT TV +">
+    <title lang="pt">Taça de Portugal: 3ª Eliminatória (Resumo)</title>
+    <desc lang="pt">Resumo dos jogos da Taça de Portugal(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150427/M" />
+  </programme>
+  <programme start="20191022170000 +0100" stop="20191022182500 +0100" channel="SPORT TV +">
+    <title lang="pt">Fan Zone</title>
+    <desc lang="pt">Programa dedicado por excelência à participação dos telespetadores que comentam o assunto dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150425/M" />
+  </programme>
+  <programme start="20191022182500 +0100" stop="20191022185500 +0100" channel="SPORT TV +">
+    <title lang="pt">Premier League: 9ª Jornada (Resumo)</title>
+    <desc lang="pt">Resumo dos melhores momentos da Premier League(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150403/M" />
+  </programme>
+  <programme start="20191022185500 +0100" stop="20191022192500 +0100" channel="SPORT TV +">
+    <title lang="pt">Central + (Direto)</title>
+    <desc lang="pt">Programa de informação com destaque aos grandes temas do dia, do mundo, do desporto nacional e internacional(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150423/M" />
+  </programme>
+  <programme start="20191022192500 +0100" stop="20191022195500 +0100" channel="SPORT TV +">
+    <title lang="pt">Liga Italiana: 8ª Jornada (Resumo)</title>
+    <desc lang="pt">Resumo dos melhores momentos da Liga Italiana(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150401/M" />
+  </programme>
+  <programme start="20191022195500 +0100" stop="20191022202500 +0100" channel="SPORT TV +">
+    <title lang="pt">Notícias</title>
+    <desc lang="pt">Toda a atualidade desportiva(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150415/M" />
+  </programme>
+  <programme start="20191022202500 +0100" stop="20191022205500 +0100" channel="SPORT TV +">
+    <title lang="pt">Taça de Portugal: 3ª Eliminatória (Resumo)</title>
+    <desc lang="pt">Resumo dos jogos da Taça de Portugal(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150427/M" />
+  </programme>
+  <programme start="20191022205500 +0100" stop="20191022220000 +0100" channel="SPORT TV +">
+    <title lang="pt">Noite Informativa</title>
+    <desc lang="pt">Espaço informativo com debate sobre os principais temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150429/M" />
+  </programme>
+  <programme start="20191022220000 +0100" stop="20191022223000 +0100" channel="SPORT TV +">
+    <title lang="pt">Central + (Direto)</title>
+    <desc lang="pt">Programa de informação com destaque aos grandes temas do dia, do mundo, do desporto nacional e internacional(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150423/M" />
+  </programme>
+  <programme start="20191022223000 +0100" stop="20191022235500 +0100" channel="SPORT TV +">
+    <title lang="pt">Taça Dos Libertadores</title>
+    <desc lang="pt">Acompanhe os melhores momentos da Taça Dos Libertadores(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150431/M" />
+  </programme>
+  <programme start="20191022235500 +0100" stop="20191023010000 +0100" channel="SPORT TV +">
+    <title lang="pt">Últimas Notícias (Direto)</title>
+    <desc lang="pt">As últimas notícias do dia, em direto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13150433/M" />
+  </programme>
+  <programme start="20191022035000 +0100" stop="20191022043200 +0100" channel="SIC MULHER">
+    <title lang="pt">House Rules</title>
+    <desc lang="pt">Dos mesmos criadores de My Kitchen Rules, House Rules é um reality show australiano em que várias equipas, maioritariamente casais, renovam as casas uns dos outros, competindo pelo prémio de pagamento da hipoteca da respetiva casa(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13096520/M" />
+    <episode-num system="onscreen">S5 E37</episode-num>
+  </programme>
+  <programme start="20191022043200 +0100" stop="20191022051300 +0100" channel="SIC MULHER">
+    <title lang="pt">My Kitchen Rules Austrália</title>
+    <desc lang="pt">My Kitchen Rules é uma competição de culinária da televisão australiana. Em cada série, várias equipas de pares competem entre si pela oportunidade de ganhar um prémio em dinheiro. Uma refeição de 3 pratos é julgada pelas outras equipas e chefs célebres(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13096478/M" />
+    <episode-num system="onscreen">S7 E6</episode-num>
+  </programme>
+  <programme start="20191022051300 +0100" stop="20191022055700 +0100" channel="SIC MULHER">
+    <title lang="pt">My Kitchen Rules Austrália</title>
+    <desc lang="pt">My Kitchen Rules é uma competição de culinária da televisão australiana. Em cada série, várias equipas de pares competem entre si pela oportunidade de ganhar um prémio em dinheiro. Uma refeição de 3 pratos é julgada pelas outras equipas e chefs célebres(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13096499/M" />
+    <episode-num system="onscreen">S7 E7</episode-num>
+  </programme>
+  <programme start="20191022055700 +0100" stop="20191022065400 +0100" channel="SIC MULHER">
+    <title lang="pt">Faz Sentido</title>
+    <desc lang="pt">Conversas descontraídas, esclarecedoras e acima de tudo que sejam um reflexo dos nossos dias. Da culinária, à moda, passando pela música, saúde, comportamento, tecnologias, cultura, caras conhecidas e testemunhos de viva voz, tudo 'Faz Sentido' nas tardes da SIC Mulher(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12767425/M" />
+    <episode-num system="onscreen">S3 E201</episode-num>
+  </programme>
+  <programme start="20191022065400 +0100" stop="20191022075000 +0100" channel="SIC MULHER">
+    <title lang="pt">Faz Sentido</title>
+    <desc lang="pt">Conversas descontraídas, esclarecedoras e acima de tudo que sejam um reflexo dos nossos dias. Da culinária, à moda, passando pela música, saúde, comportamento, tecnologias, cultura, caras conhecidas e testemunhos de viva voz, tudo 'Faz Sentido' nas tardes da SIC Mulher(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11466327/M" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20191022075000 +0100" stop="20191022084800 +0100" channel="SIC MULHER">
+    <title lang="pt">Faz Sentido</title>
+    <desc lang="pt">Conversas descontraídas, esclarecedoras e acima de tudo que sejam um reflexo dos nossos dias. Da culinária, à moda, passando pela música, saúde, comportamento, tecnologias, cultura, caras conhecidas e testemunhos de viva voz, tudo 'Faz Sentido' nas tardes da SIC Mulher(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11466335/M" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20191022084800 +0100" stop="20191022093000 +0100" channel="SIC MULHER">
+    <title lang="pt">Dr. Phil</title>
+    <desc lang="pt">O talk-show do Dr. Phil McGraw aborda as mais variadas questões relacionadas com a psicologia e o comportamento humano; o casamento, o divórcio, as relações familiares, a dependência da droga ou a educação dos filhos(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12835061/M" />
+    <episode-num system="onscreen">S14 E150</episode-num>
+  </programme>
+  <programme start="20191022093000 +0100" stop="20191022095100 +0100" channel="SIC MULHER">
+    <title lang="pt">Bondi Vet</title>
+    <desc lang="pt">Botched traz ao pequeno ecrã tudo aquilo que correu mal em algumas cirurgias plásticas. Terry Dubrow e Paul Nassif são os cirurgiões responsáveis pelas avaliações e “consertos” necessários. Paul e Terry sabem que o seu veredicto é muita vezes o principal alívio para quem a eles recorre(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11518333/M" />
+    <episode-num system="onscreen">S4 E8</episode-num>
+  </programme>
+  <programme start="20191022095100 +0100" stop="20191022101600 +0100" channel="SIC MULHER">
+    <title lang="pt">Bondi Vet</title>
+    <desc lang="pt">Botched traz ao pequeno ecrã tudo aquilo que correu mal em algumas cirurgias plásticas. Terry Dubrow e Paul Nassif são os cirurgiões responsáveis pelas avaliações e “consertos” necessários. Paul e Terry sabem que o seu veredicto é muita vezes o principal alívio para quem a eles recorre(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11537258/M" />
+    <episode-num system="onscreen">S4 E11</episode-num>
+  </programme>
+  <programme start="20191022101600 +0100" stop="20191022110300 +0100" channel="SIC MULHER">
+    <title lang="pt">Obsessive Compulsive Cleaners</title>
+    <desc lang="pt">Este programa aposta na teoria de que juntar obsessivo-compulsivos pela limpeza com outros que sofrem do mesmo mal é o suficiente para limpar os locais mais sujos e desarrumados da Grã-Bretanha(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12479319/M" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+  </programme>
+  <programme start="20191022110300 +0100" stop="20191022115400 +0100" channel="SIC MULHER">
+    <title lang="pt">Obsessive Compulsive Cleaners</title>
+    <desc lang="pt">Este programa aposta na teoria de que juntar obsessivo-compulsivos pela limpeza com outros que sofrem do mesmo mal é o suficiente para limpar os locais mais sujos e desarrumados da Grã-Bretanha(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12479356/M" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20191022115400 +0100" stop="20191022123900 +0100" channel="SIC MULHER">
+    <title lang="pt">House Rules</title>
+    <desc lang="pt">Dos mesmos criadores de My Kitchen Rules, House Rules é um reality show australiano em que várias equipas, maioritariamente casais, renovam as casas uns dos outros, competindo pelo prémio de pagamento da hipoteca da respetiva casa(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132257/M" />
+    <episode-num system="onscreen">S5 E38</episode-num>
+  </programme>
+  <programme start="20191022123900 +0100" stop="20191022130300 +0100" channel="SIC MULHER">
+    <title lang="pt">Married At First Sight Austrália</title>
+    <desc lang="pt">Um dos formatos com maior sucesso atualmente, chega à SIC Mulher. Imagine conhecer a sua alma gémea, a sua cara-metade no próprio dia do casamento! Esta é a experiência social que tem dado que falar um pouco por todo o mundo. Um programa de televisão que acompanha a decisão de casar com um desconhecido. O dia do casamento será o primeiro encontro numa relação que se quer para o resto da vida(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13096449/M" />
+    <episode-num system="onscreen">S6 E88</episode-num>
+  </programme>
+  <programme start="20191022130300 +0100" stop="20191022133100 +0100" channel="SIC MULHER">
+    <title lang="pt">Married At First Sight Austrália</title>
+    <desc lang="pt">Um dos formatos com maior sucesso atualmente, chega à SIC Mulher. Imagine conhecer a sua alma gémea, a sua cara-metade no próprio dia do casamento! Esta é a experiência social que tem dado que falar um pouco por todo o mundo. Um programa de televisão que acompanha a decisão de casar com um desconhecido. O dia do casamento será o primeiro encontro numa relação que se quer para o resto da vida(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13096451/M" />
+    <episode-num system="onscreen">S6 E89</episode-num>
+  </programme>
+  <programme start="20191022133100 +0100" stop="20191022141900 +0100" channel="SIC MULHER">
+    <title lang="pt">My Dream Home</title>
+    <desc lang="pt">Também conhecido como Property Brothers, Drew e Jonathan estão determinados em ajudar casais a encontrarem, comprarem e transformarem casas. Muitas vezes o potencial das propriedades está bem escondido, mas o objetivo é sempre o de conseguir uma casa de sonho(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/9644942/M" />
+    <episode-num system="onscreen">S3 E13</episode-num>
+  </programme>
+  <programme start="20191022141900 +0100" stop="20191022150300 +0100" channel="SIC MULHER">
+    <title lang="pt">My Kitchen Rules Austrália</title>
+    <desc lang="pt">My Kitchen Rules é uma competição de culinária da televisão australiana. Em cada série, várias equipas de pares competem entre si pela oportunidade de ganhar um prémio em dinheiro. Uma refeição de 3 pratos é julgada pelas outras equipas e chefs célebres(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132272/M" />
+    <episode-num system="onscreen">S7 E10</episode-num>
+  </programme>
+  <programme start="20191022150300 +0100" stop="20191022160200 +0100" channel="SIC MULHER">
+    <title lang="pt">Joias TV - Televendas</title>
+    <desc lang="pt">Um programa de venda de joias, apresentado em direto por Catarina Morazzo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132283/M" />
+  </programme>
+  <programme start="20191022160200 +0100" stop="20191022165200 +0100" channel="SIC MULHER">
+    <title lang="pt">Obsessive Compulsive Cleaners</title>
+    <desc lang="pt">Este programa aposta na teoria de que juntar obsessivo-compulsivos pela limpeza com outros que sofrem do mesmo mal é o suficiente para limpar os locais mais sujos e desarrumados da Grã-Bretanha(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12501162/M" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+  </programme>
+  <programme start="20191022165200 +0100" stop="20191022171300 +0100" channel="SIC MULHER">
+    <title lang="pt">Wife Swap U.S.A.</title>
+    <desc lang="pt">Wife Swap U.S.A. T12 - Ep. 2(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13068848/M" />
+    <episode-num system="onscreen">S12 E2</episode-num>
+  </programme>
+  <programme start="20191022171300 +0100" stop="20191022175600 +0100" channel="SIC MULHER">
+    <title lang="pt">Wife Swap U.S.A.</title>
+    <desc lang="pt">Wife Swap U.S.A. T12 - Ep. 3(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13068850/M" />
+    <episode-num system="onscreen">S12 E3</episode-num>
+  </programme>
+  <programme start="20191022175600 +0100" stop="20191022182300 +0100" channel="SIC MULHER">
+    <title lang="pt">Cyrus Vs Cyrus Design And Conquer</title>
+    <desc lang="pt">Neste programa mãe e filha, Tish e Brandi Cyrus, apresentam vários projetos de design de interiores. Esta dupla pretende ajudar amigos e clientes da sua cidade natal, Nashville, a melhorar a decoração das suas casas. Em cada episódio, Tish e Brandi defendem as suas ideias de remodelação mediante o orçamento do cliente. Depois de escolhida a ideia vencedora, a dupla deve trabalhar em equipa para tornar o projeto real(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13096531/M" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20191022182300 +0100" stop="20191022191100 +0100" channel="SIC MULHER">
+    <title lang="pt">House Rules</title>
+    <desc lang="pt">Dos mesmos criadores de My Kitchen Rules, House Rules é um reality show australiano em que várias equipas, maioritariamente casais, renovam as casas uns dos outros, competindo pelo prémio de pagamento da hipoteca da respetiva casa(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132274/M" />
+    <episode-num system="onscreen">S5 E39</episode-num>
+  </programme>
+  <programme start="20191022191100 +0100" stop="20191022195600 +0100" channel="SIC MULHER">
+    <title lang="pt">My Dream Home</title>
+    <desc lang="pt">Também conhecido como Property Brothers, Drew e Jonathan estão determinados em ajudar casais a encontrarem, comprarem e transformarem casas. Muitas vezes o potencial das propriedades está bem escondido, mas o objetivo é sempre o de conseguir uma casa de sonho(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/9625542/M" />
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme start="20191022195600 +0100" stop="20191022203300 +0100" channel="SIC MULHER">
+    <title lang="pt">Married At First Sight Austrália</title>
+    <desc lang="pt">Um dos formatos com maior sucesso atualmente, chega à SIC Mulher. Imagine conhecer a sua alma gémea, a sua cara-metade no próprio dia do casamento! Esta é a experiência social que tem dado que falar um pouco por todo o mundo. Um programa de televisão que acompanha a decisão de casar com um desconhecido. O dia do casamento será o primeiro encontro numa relação que se quer para o resto da vida(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132261/M" />
+    <episode-num system="onscreen">S6 E99</episode-num>
+  </programme>
+  <programme start="20191022203300 +0100" stop="20191022205900 +0100" channel="SIC MULHER">
+    <title lang="pt">Married At First Sight Austrália</title>
+    <desc lang="pt">Um dos formatos com maior sucesso atualmente, chega à SIC Mulher. Imagine conhecer a sua alma gémea, a sua cara-metade no próprio dia do casamento! Esta é a experiência social que tem dado que falar um pouco por todo o mundo. Um programa de televisão que acompanha a decisão de casar com um desconhecido. O dia do casamento será o primeiro encontro numa relação que se quer para o resto da vida(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132276/M" />
+    <episode-num system="onscreen">S6 E100</episode-num>
+  </programme>
+  <programme start="20191022205900 +0100" stop="20191022214200 +0100" channel="SIC MULHER">
+    <title lang="pt">Married At First Sight Austrália</title>
+    <desc lang="pt">Um dos formatos com maior sucesso atualmente, chega à SIC Mulher. Imagine conhecer a sua alma gémea, a sua cara-metade no próprio dia do casamento! Esta é a experiência social que tem dado que falar um pouco por todo o mundo. Um programa de televisão que acompanha a decisão de casar com um desconhecido. O dia do casamento será o primeiro encontro numa relação que se quer para o resto da vida(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132278/M" />
+    <episode-num system="onscreen">S6 E101</episode-num>
+  </programme>
+  <programme start="20191022214200 +0100" stop="20191022223300 +0100" channel="SIC MULHER">
+    <title lang="pt">My Dream Home</title>
+    <desc lang="pt">Também conhecido como Property Brothers, Drew e Jonathan estão determinados em ajudar casais a encontrarem, comprarem e transformarem casas. Muitas vezes o potencial das propriedades está bem escondido, mas o objetivo é sempre o de conseguir uma casa de sonho(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/9647894/M" />
+    <episode-num system="onscreen">S3 E14</episode-num>
+  </programme>
+  <programme start="20191022223300 +0100" stop="20191022231400 +0100" channel="SIC MULHER">
+    <title lang="pt">Masterchef Austrália</title>
+    <desc lang="pt">Prevista como a última temporada a juntar Gary Mehigan, George Calombaris e Matt Preston, a recente 11ª edição de MasterChef Austrália surge envolta em polémica. Mais do que o prémio, esta competição continua a apostar na superação, na reinvenção em cada desafio e na presença de convidados ilustres(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132263/M" />
+    <episode-num system="onscreen">S11 E32</episode-num>
+  </programme>
+  <programme start="20191022231400 +0100" stop="20191022235800 +0100" channel="SIC MULHER">
+    <title lang="pt">Masterchef Austrália</title>
+    <desc lang="pt">Prevista como a última temporada a juntar Gary Mehigan, George Calombaris e Matt Preston, a recente 11ª edição de MasterChef Austrália surge envolta em polémica. Mais do que o prémio, esta competição continua a apostar na superação, na reinvenção em cada desafio e na presença de convidados ilustres(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132281/M" />
+    <episode-num system="onscreen">S11 E33</episode-num>
+  </programme>
+  <programme start="20191022235800 +0100" stop="20191023004200 +0100" channel="SIC MULHER">
+    <title lang="pt">America's Got Talent</title>
+    <desc lang="pt">America's Got Talent T14 - Ep. 1(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13132285/M" />
+    <episode-num system="onscreen">S14 E1</episode-num>
+  </programme>
+  <programme start="20191022033800 +0100" stop="20191022042900 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Inspetor Max</title>
+    <desc lang="pt">O inspetor Jorge Mendes é um homem solitário, cuja mulher morreu quando os filhos ainda eram pequenos. Trabalha em Investigação Criminal e conta com a preciosa ajuda de um cão chamado Max para o ajudar a resolver os crimes(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13130949/M" />
+  </programme>
+  <programme start="20191022042900 +0100" stop="20191022052500 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">O Prédio do Vasco</title>
+    <desc lang="pt">No prédio onde Vasco é porteiro existe um consultório médico, onde trabalha a mais bela das enfermeiras, um gabinete de advogados e um cabeleireiro. Daí a sua irritação permanente pelo rodopio de inquilinos, que lhe sujam a escada e os elevadores, para além de diminuírem substancialmente a segurança do condomínio(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13130951/M" />
+  </programme>
+  <programme start="20191022052500 +0100" stop="20191022063000 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Os Batanetes</title>
+    <desc lang="pt">Vários momentos de humor, compostos por sketches hilariantes, são sinónimo de muitas gargalhadas na companhia dos 'Batanetes'(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160900/M" />
+  </programme>
+  <programme start="20191022063000 +0100" stop="20191022072500 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Destinos Cruzados</title>
+    <desc lang="pt">O luxo e o lixo da sociedade servem de pano de fundo à história de duas mulheres(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/8280447/M" />
+    <episode-num system="onscreen">E137</episode-num>
+  </programme>
+  <programme start="20191022072500 +0100" stop="20191022080000 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Campeões E Detectives</title>
+    <desc lang="pt">JP, Manuel, Tiago e Madalena reúnem-se de emergência pois, a cada dia que passa, sentem que estão a ser observados e têm de descobrir por quem. A equipa reúne-se e fala também da necessidade de arranjar um treinador(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13130955/M" />
+  </programme>
+  <programme start="20191022080000 +0100" stop="20191022085600 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Morangos Com Açúcar</title>
+    <desc lang="pt">Este ano todas as personagens dos Morangos com Açúcar perseguem um mesmo sonho. Para elas o céu é o limite. Não porque são adolescentes, o que seria razão suficiente, mas porque estão todos decididos a forçarem o destino à sua vontade e não estão dispostos a ficar à espera do futuro(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13130940/M" />
+    <episode-num system="onscreen">E495</episode-num>
+  </programme>
+  <programme start="20191022085600 +0100" stop="20191022094900 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">I Love It</title>
+    <desc lang="pt">«I Love It» é a história de Beatriz, uma rapariga irreverente apaixonada pela música, que canta e compõe em casa, alimentando o sonho de fazer as suas criações musicais tocarem aqueles que as ouvem(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160186/M" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20191022094900 +0100" stop="20191022104000 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Inspetor Max</title>
+    <desc lang="pt">O inspetor Jorge Mendes é um homem solitário, cuja mulher morreu quando os filhos ainda eram pequenos. Trabalha em Investigação Criminal e conta com a preciosa ajuda de um cão chamado Max para o ajudar a resolver os crimes(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13130949/M" />
+  </programme>
+  <programme start="20191022104000 +0100" stop="20191022111000 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Os Batanetes</title>
+    <desc lang="pt">Vários momentos de humor, compostos por sketches hilariantes, são sinónimo de muitas gargalhadas na companhia dos 'Batanetes'(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13130953/M" />
+  </programme>
+  <programme start="20191022111000 +0100" stop="20191022115300 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">A Impostora</title>
+    <desc lang="pt">Inspirada em factos reais, aborda temas pertinentes da sociedade, mostrando a luta permanente de pessoas que têm amor ao poder e pessoas que têm o poder de amar. Um avião desaparece misteriosamente, levando a bordo a irmã gémea de Verónica(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12657246/M" />
+    <episode-num system="onscreen">E201</episode-num>
+  </programme>
+  <programme start="20191022115300 +0100" stop="20191022131300 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Ninguém Como Tu</title>
+    <desc lang="pt">Ninguém Como Tu revela, na forma mais pura, dinâmica e cativante, a procura pela felicidade e pelo amor que guia a vida. Enquadrada nas vinte e quatro horas diárias de correria frenética entre Almada e Lisboa, é um retrato fiel da permanente luta pela conquista dos sonhos que dão sentido à existência humana(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13130945/M" />
+    <episode-num system="onscreen">E61</episode-num>
+  </programme>
+  <programme start="20191022131300 +0100" stop="20191022141000 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">O Prédio do Vasco</title>
+    <desc lang="pt">No prédio onde Vasco é porteiro existe um consultório médico, onde trabalha a mais bela das enfermeiras, um gabinete de advogados e um cabeleireiro. Daí a sua irritação permanente pelo rodopio de inquilinos, que lhe sujam a escada e os elevadores, para além de diminuírem substancialmente a segurança do condomínio(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13130951/M" />
+  </programme>
+  <programme start="20191022141000 +0100" stop="20191022151500 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Os Batanetes</title>
+    <desc lang="pt">Vários momentos de humor, compostos por sketches hilariantes, são sinónimo de muitas gargalhadas na companhia dos 'Batanetes'(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13130957/M" />
+  </programme>
+  <programme start="20191022151500 +0100" stop="20191022154500 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Morangos Com Açúcar</title>
+    <desc lang="pt">Este ano todas as personagens dos Morangos com Açúcar perseguem um mesmo sonho. Para elas o céu é o limite. Não porque são adolescentes, o que seria razão suficiente, mas porque estão todos decididos a forçarem o destino à sua vontade e não estão dispostos a ficar à espera do futuro(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13130959/M" />
+    <episode-num system="onscreen">E496</episode-num>
+  </programme>
+  <programme start="20191022154500 +0100" stop="20191022170800 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">I Love It</title>
+    <desc lang="pt">História de Beatriz, uma rapariga irreverente apaixonada pela música, que canta e compõe em casa, alimentando o sonho de fazer as suas criações musicais tocarem aqueles que as ouvem(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160902/M" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20191022170800 +0100" stop="20191022180300 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Destinos Cruzados</title>
+    <desc lang="pt">O luxo e o lixo da sociedade servem de pano de fundo à história de duas mulheres(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/8283440/M" />
+    <episode-num system="onscreen">E138</episode-num>
+  </programme>
+  <programme start="20191022180300 +0100" stop="20191022193100 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Ninguém Como Tu</title>
+    <desc lang="pt">Ninguém Como Tu revela, na forma mais pura, dinâmica e cativante, a procura pela felicidade e pelo amor que guia a vida. Enquadrada nas vinte e quatro horas diárias de correria frenética entre Almada e Lisboa, é um retrato fiel da permanente luta pela conquista dos sonhos que dão sentido à existência humana(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13130964/M" />
+    <episode-num system="onscreen">E62</episode-num>
+  </programme>
+  <programme start="20191022193100 +0100" stop="20191022200900 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">A Impostora</title>
+    <desc lang="pt">Inspirada em factos reais, aborda temas pertinentes da sociedade, mostrando a luta permanente de pessoas que têm amor ao poder e pessoas que têm o poder de amar. Um avião desaparece misteriosamente, levando a bordo a irmã gémea de Verónica(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12657270/M" />
+    <episode-num system="onscreen">E202</episode-num>
+  </programme>
+  <programme start="20191022200900 +0100" stop="20191022210000 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Inspetor Max</title>
+    <desc lang="pt">O inspetor Jorge Mendes é um homem solitário, cuja mulher morreu quando os filhos ainda eram pequenos. Trabalha em Investigação Criminal e conta com a preciosa ajuda de um cão chamado Max para o ajudar a resolver os crimes(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13130949/M" />
+  </programme>
+  <programme start="20191022210000 +0100" stop="20191022215800 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">O Prédio do Vasco</title>
+    <desc lang="pt">No prédio onde Vasco é porteiro existe um consultório médico, onde trabalha a mais bela das enfermeiras, um gabinete de advogados e um cabeleireiro. Daí a sua irritação permanente pelo rodopio de inquilinos, que lhe sujam a escada e os elevadores, para além de diminuírem substancialmente a segurança do condomínio(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13130951/M" />
+  </programme>
+  <programme start="20191022215800 +0100" stop="20191022233900 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Os Batanetes</title>
+    <desc lang="pt">Vários momentos de humor, compostos por sketches hilariantes, são sinónimo de muitas gargalhadas na companhia dos 'Batanetes'(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13130966/M" />
+  </programme>
+  <programme start="20191022233900 +0100" stop="20191023003200 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">I Love It</title>
+    <desc lang="pt">História de Beatriz, uma rapariga irreverente apaixonada pela música, que canta e compõe em casa, alimentando o sonho de fazer as suas criações musicais tocarem aqueles que as ouvem(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160902/M" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20191022031500 +0100" stop="20191022043000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola da Noite</title>
+    <desc lang="pt">Espaço informativo da noite(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144696/M" />
+  </programme>
+  <programme start="20191022043000 +0100" stop="20191022050000 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
+    <desc lang="pt">Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144690/M" />
+  </programme>
+  <programme start="20191022050000 +0100" stop="20191022051500 +0100" channel="A BOLA TV">
+    <title lang="pt">Magazine FMP</title>
+    <desc lang="pt">O Magazine da Federação de Motociclismo de Portugal vai mostrar-lhe tudo sobre as provas de enduro, super enduro, cross, supercrosse, trial, velocidade e muito mais que todos os fins de semana correm Portugal de lés a lés(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144698/M" />
+  </programme>
+  <programme start="20191022051500 +0100" stop="20191022054500 +0100" channel="A BOLA TV">
+    <title lang="pt">Compacto Desportivo</title>
+    <desc lang="pt">Triatlo: CN Clubes, Etapa Contrarrelógio(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144700/M" />
+  </programme>
+  <programme start="20191022054500 +0100" stop="20191022060000 +0100" channel="A BOLA TV">
+    <title lang="pt">100% Surf e Bodyboard</title>
+    <desc lang="pt">Um programa dedicado ao Surf e ao Bodyboard(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144702/M" />
+  </programme>
+  <programme start="20191022060000 +0100" stop="20191022061500 +0100" channel="A BOLA TV">
+    <title lang="pt">Flashnews</title>
+    <desc lang="pt">A síntese, atualizada à hora certa, das principais notícias do dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144704/M" />
+  </programme>
+  <programme start="20191022061500 +0100" stop="20191022064500 +0100" channel="A BOLA TV">
+    <title lang="pt">Sala VIP</title>
+    <desc lang="pt">Paulo Costa convida os melhores atletas, das diferentes modalidades desportivas que se praticam em Portugal, para a Sala VIP(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144706/M" />
+  </programme>
+  <programme start="20191022064500 +0100" stop="20191022070000 +0100" channel="A BOLA TV">
+    <title lang="pt">Fairplay Curto</title>
+    <desc lang="pt">Porque a vida deve ser levada com desportivismo, alguns vídeos divertidos do mundo do desporto que estão disponíveis na internet(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144708/M" />
+  </programme>
+  <programme start="20191022070000 +0100" stop="20191022073000 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
+    <desc lang="pt">Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144690/M" />
+  </programme>
+  <programme start="20191022073000 +0100" stop="20191022075000 +0100" channel="A BOLA TV">
+    <title lang="pt">Magazine BTT-TV</title>
+    <desc lang="pt">Magazine que inclui reportagens sobre provas e eventos de BTT(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144710/M" />
+  </programme>
+  <programme start="20191022075000 +0100" stop="20191022080000 +0100" channel="A BOLA TV">
+    <title lang="pt">Off</title>
+    <desc lang="pt">Situações insólitas e curiosas, que envolvem o fenómeno desportivo são o foco de atenção do programa OFF. Por este espaço passam momentos marcantes, episódios divertidos ou simplesmente fora do comum(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144712/M" />
+  </programme>
+  <programme start="20191022080000 +0100" stop="20191022081500 +0100" channel="A BOLA TV">
+    <title lang="pt">Flashnews</title>
+    <desc lang="pt">A síntese, atualizada à hora certa, das principais notícias do dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144704/M" />
+  </programme>
+  <programme start="20191022081500 +0100" stop="20191022083000 +0100" channel="A BOLA TV">
+    <title lang="pt">Magazine FMP</title>
+    <desc lang="pt">O Magazine da Federação de Motociclismo de Portugal vai mostrar-lhe tudo sobre as provas de enduro, super enduro, cross, supercrosse, trial, velocidade e muito mais que todos os fins de semana correm Portugal de lés a lés(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144698/M" />
+  </programme>
+  <programme start="20191022083000 +0100" stop="20191022084500 +0100" channel="A BOLA TV">
+    <title lang="pt">Flashnews</title>
+    <desc lang="pt">A síntese, atualizada à hora certa, das principais notícias do dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144704/M" />
+  </programme>
+  <programme start="20191022084500 +0100" stop="20191022090000 +0100" channel="A BOLA TV">
+    <title lang="pt">Off</title>
+    <desc lang="pt">Situações insólitas e curiosas, que envolvem o fenómeno desportivo são o foco de atenção do programa OFF. Por este espaço passam momentos marcantes, episódios divertidos ou simplesmente fora do comum(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144712/M" />
+  </programme>
+  <programme start="20191022090000 +0100" stop="20191022091500 +0100" channel="A BOLA TV">
+    <title lang="pt">Flashnews</title>
+    <desc lang="pt">A síntese, atualizada à hora certa, das principais notícias do dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144704/M" />
+  </programme>
+  <programme start="20191022091500 +0100" stop="20191022092000 +0100" channel="A BOLA TV">
+    <title lang="pt">Off</title>
+    <desc lang="pt">Situações insólitas e curiosas, que envolvem o fenómeno desportivo são o foco de atenção do programa OFF. Por este espaço passam momentos marcantes, episódios divertidos ou simplesmente fora do comum(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144712/M" />
+  </programme>
+  <programme start="20191022092000 +0100" stop="20191022095000 +0100" channel="A BOLA TV">
+    <title lang="pt">Modalidades</title>
+    <desc lang="pt">Porque desporto não é só futebol, um programa dedicado às várias modalidades desportivas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144714/M" />
+  </programme>
+  <programme start="20191022095000 +0100" stop="20191022100500 +0100" channel="A BOLA TV">
+    <title lang="pt">Flashnews</title>
+    <desc lang="pt">A síntese, atualizada à hora certa, das principais notícias do dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144704/M" />
+  </programme>
+  <programme start="20191022100500 +0100" stop="20191022110000 +0100" channel="A BOLA TV">
+    <title lang="pt">Amigos Da Bola</title>
+    <desc lang="pt">Os Amigos da Bola estão de volta e com novo horário. Agora, todas as segundas-feiras, em direto, a partir das 23h00, o olhar mais bem disposto do país sobre o futebol nacional e internacional. Os humoristas Luís Filipe Borges, Bruno Ferreira e Vasco Correia vestem a camisola dos ‘grandes’ sem perder o fair-play e mostrar que um benfiquista, um sportinguista e um portista podem discutir futebol e os casos da jornada sem perder o sentido de humor(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144694/M" />
+  </programme>
+  <programme start="20191022110000 +0100" stop="20191022111500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola das 11</title>
+    <desc lang="pt">Pelas 11h00, fique a par das principais informações que marcam a atualidade desportiva e no mundo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144716/M" />
+  </programme>
+  <programme start="20191022111500 +0100" stop="20191022115500 +0100" channel="A BOLA TV">
+    <title lang="pt">Revista de Imprensa Internacional</title>
+    <desc lang="pt">André Pipa analisa as novidades que fazem notícia na imprensa estrangeira(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144718/M" />
+  </programme>
+  <programme start="20191022115500 +0100" stop="20191022125500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola do Meio Dia</title>
+    <desc lang="pt">Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144720/M" />
+  </programme>
+  <programme start="20191022125500 +0100" stop="20191022140000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola da Uma</title>
+    <desc lang="pt">Espaço de informação com as últimas notícias do mundo desportivo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144722/M" />
+  </programme>
+  <programme start="20191022140000 +0100" stop="20191022141000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola das 2</title>
+    <desc lang="pt">Espaço de informação com as últimas notícias do mundo desportivo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144724/M" />
+  </programme>
+  <programme start="20191022141000 +0100" stop="20191022150500 +0100" channel="A BOLA TV">
+    <title lang="pt">Tribuna de Honra</title>
+    <desc lang="pt">Moderado por José Manuel Delgado, debate da atualidade desportiva com António Bagão Félix (Benfica), Pedro Marques Lopes (FC Porto) e Sérgio Abrantes (Sporting)(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144726/M" />
+  </programme>
+  <programme start="20191022150500 +0100" stop="20191022151500 +0100" channel="A BOLA TV">
+    <title lang="pt">Auto Foco Curtas</title>
+    <desc lang="pt">Espaço dedicado às últimas novidades do mundo automóvel(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144728/M" />
+  </programme>
+  <programme start="20191022151500 +0100" stop="20191022161500 +0100" channel="A BOLA TV">
+    <title lang="pt">Amigos Da Bola</title>
+    <desc lang="pt">Os Amigos da Bola estão de volta e com novo horário. Agora, todas as segundas-feiras, em direto, a partir das 23h00, o olhar mais bem disposto do país sobre o futebol nacional e internacional. Os humoristas Luís Filipe Borges, Bruno Ferreira e Vasco Correia vestem a camisola dos ‘grandes’ sem perder o fair-play e mostrar que um benfiquista, um sportinguista e um portista podem discutir futebol e os casos da jornada sem perder o sentido de humor(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144694/M" />
+  </programme>
+  <programme start="20191022161500 +0100" stop="20191022172000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola da Tarde</title>
+    <desc lang="pt">Espaço informativo da tarde(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144730/M" />
+  </programme>
+  <programme start="20191022172000 +0100" stop="20191022180000 +0100" channel="A BOLA TV">
+    <title lang="pt">Revista de Imprensa Internacional</title>
+    <desc lang="pt">André Pipa analisa as novidades que fazem notícia na imprensa estrangeira(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144718/M" />
+  </programme>
+  <programme start="20191022180000 +0100" stop="20191022183000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola das 6</title>
+    <desc lang="pt">Espaço de informação com as últimas notícias do mundo desportivo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144732/M" />
+  </programme>
+  <programme start="20191022183000 +0100" stop="20191022190000 +0100" channel="A BOLA TV">
+    <title lang="pt">Desporto Motorizado</title>
+    <desc lang="pt">O Campeonato de Portugal de Montanha JC Group regressou ao Douro Vinhateiro para a 5ª Rampa de Santa Marta com João Fonseca a ser o grande vencedor(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144734/M" />
+  </programme>
+  <programme start="20191022190000 +0100" stop="20191022195500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola das 7</title>
+    <desc lang="pt">Espaço de informação com as últimas notícias do mundo desportivo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144736/M" />
+  </programme>
+  <programme start="20191022195500 +0100" stop="20191022202000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola das 8</title>
+    <desc lang="pt">Espaço informativo diário que lhe conta tudo o que se passa no desporto e no mundo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144738/M" />
+  </programme>
+  <programme start="20191022202000 +0100" stop="20191022205000 +0100" channel="A BOLA TV">
+    <title lang="pt">Motores</title>
+    <desc lang="pt">Fique a par das últimas novidades do setor automóvel(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144740/M" />
+  </programme>
+  <programme start="20191022205000 +0100" stop="20191022214500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Sobrevivente</title>
+    <desc lang="pt">Neste episódio, os atletas testam a sua habilidade no rafting no oceano aberto com a tribo Tagbanua das Filipinas. A má notícia é que suas jangadas são feitas de um monte de paus de bambu amarrados e devem resistir 12km(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144742/M" />
+  </programme>
+  <programme start="20191022214500 +0100" stop="20191022233000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola da Noite</title>
+    <desc lang="pt">Espaço informativo da noite(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159802/M" />
+  </programme>
+  <programme start="20191022233000 +0100" stop="20191023000500 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
+    <desc lang="pt">Diariamente, A BOLA TV leva até si todas as notícias do mundo desportivo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13144690/M" />
+  </programme>
+  <programme start="20191022033000 +0100" stop="20191022043000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Duelo de Campeões</title>
+    <desc lang="pt">Magazine centrado nos desportes de combate(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159519/M" />
+  </programme>
+  <programme start="20191022043000 +0100" stop="20191022050000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Pontos Nos Is</title>
+    <desc lang="pt">Espaço dedicado a transmissões desportivas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159521/M" />
+  </programme>
+  <programme start="20191022050000 +0100" stop="20191022060000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Nota Alta</title>
+    <desc lang="pt">O novo programa semanal de Rui Massena, “Nota Alta”, vai contar com a presença de convidados e artistas em estúdio para conversas informais sobre diversas temáticas. Com este programa a música marca também presença num ambiente intimista(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159499/M" />
+  </programme>
+  <programme start="20191022060000 +0100" stop="20191022061500 +0100" channel="PORTO CANAL">
+    <title lang="pt">Porto Beats</title>
+    <desc lang="pt">Fique a conhecer pessoas e sítios que dão vida ao Porto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159523/M" />
+  </programme>
+  <programme start="20191022061500 +0100" stop="20191022063000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Cinema Batalha - Agenda</title>
+    <desc lang="pt">Programa dedicado à Sétima Arte. Todas as estreias, novidades, curiosidades e até retrospetivas, que acontecem no mundo do cinema, são apresentadas neste programa todas as semanas. Apresentado por Pedro Oliveira(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159501/M" />
+  </programme>
+  <programme start="20191022063000 +0100" stop="20191022073000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Radioativo</title>
+    <desc lang="pt">Programa de música alternativa e indie, sendo apresentados diariamente os mais interessantes videoclips de propostas musicais provenientes dos quatro cantos do mundo. Apresentador: Renato Filipe Cardoso(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159525/M" />
+  </programme>
+  <programme start="20191022073000 +0100" stop="20191022080000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Clube de Cozinheiros</title>
+    <desc lang="pt">Programa de culinária, apresentado pelo Chef José Alexandre, onde diariamente são confecionadas receitas rápidas e económicas para o dia-a-dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159503/M" />
+  </programme>
+  <programme start="20191022080000 +0100" stop="20191022083000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Como Era Como É</title>
+    <desc lang="pt">Como Era Como É(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159527/M" />
+  </programme>
+  <programme start="20191022083000 +0100" stop="20191022090000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Caminhos da História</title>
+    <desc lang="pt">Um programa dedicado à divulgação da História e do Património do nosso país, que visa valorizar a nossa memória através de percursos no território e de visitas a monumentos, na companhia do arqueólogo e historiador Joel Cleto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159505/M" />
+  </programme>
+  <programme start="20191022090000 +0100" stop="20191022100000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto Entrevista</title>
+    <desc lang="pt">Entrevistas aos principais intervenientes no Universo do Futebol Clube do Porto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159529/M" />
+  </programme>
+  <programme start="20191022100000 +0100" stop="20191022103000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Clube de Cozinheiros</title>
+    <desc lang="pt">Programa de culinária, apresentado pelo Chef José Alexandre, onde diariamente são confecionadas receitas rápidas e económicas para o dia-a-dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159503/M" />
+  </programme>
+  <programme start="20191022103000 +0100" stop="20191022130000 +0100" channel="PORTO CANAL">
+    <title lang="pt">D'Mais</title>
+    <desc lang="pt">D'Mais(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159531/M" />
+  </programme>
+  <programme start="20191022130000 +0100" stop="20191022133000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto - Jornal</title>
+    <desc lang="pt">O Universo Porto - Jornal e´ um programa de informação desportiva, sobre conteúdos do FC Porto. Trata-se de um programa diário, de segunda a sexta-feira, com todas as informações do FC Porto, um olhar atento sobre o dia-a-dia do clube, com síntese sobre todas as modalidades(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159534/M" />
+  </programme>
+  <programme start="20191022133000 +0100" stop="20191022143000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Júlio Magalhães</title>
+    <desc lang="pt">Júlio Magalhães entrevista a diversas figuras da sociedade portuguesa. Desde a política, à música, passando pelo humor, muitos serão os convidados do jornalista(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159508/M" />
+  </programme>
+  <programme start="20191022143000 +0100" stop="20191022150000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Cinema Batalha</title>
+    <desc lang="pt">Programa dedicado à Sétima Arte. Todas as estreias, novidades, curiosidades e até retrospetivas, que acontecem no mundo do cinema, são apresentadas neste programa todas as semanas. Apresentado por Pedro Oliveira(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159510/M" />
+  </programme>
+  <programme start="20191022150000 +0100" stop="20191022153000 +0100" channel="PORTO CANAL">
+    <title lang="pt">N'Agenda</title>
+    <desc lang="pt">Agenda Cultural que apresenta semanalmente sugestões e novidades no meio cultural do Porto e Norte do país. Exposições, concertos, cinema, arte etc. vão ser os temas em destaque(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159512/M" />
+  </programme>
+  <programme start="20191022153000 +0100" stop="20191022170000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Consultório</title>
+    <desc lang="pt">Programa diário sobre saúde e medicina. Todos os dias os especialistas convidados, na primeira parte do programa, falam sobre as doenças que mais afetam a população portuguesa. Apresentado por Susana Cunha Guimarães(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159514/M" />
+  </programme>
+  <programme start="20191022170000 +0100" stop="20191022173000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Pole Position</title>
+    <desc lang="pt">'Pole Position' traz as novidades do desporto automóvel, a adrenalina das corridas, as histórias dos pilotos, os treinos, a luta pela vitória em todos os Campeonatos de Portugal da modalidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159536/M" />
+  </programme>
+  <programme start="20191022173000 +0100" stop="20191022193000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Alô Ricardo</title>
+    <desc lang="pt">Programa de segunda a sexta-feira apresentado por Ricardo Couto e com a participação de Francisco Tavares com o foco no entretenimento. Com espaços de música, animação, culinária e entrevistas, este programa quer levar até ao espetador o que de melhor se faz em Portugal(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159538/M" />
+  </programme>
+  <programme start="20191022193000 +0100" stop="20191022200000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto - Jornal</title>
+    <desc lang="pt">O Universo Porto - Jornal e´ um programa de informação desportiva, sobre conteúdos do FC Porto. Trata-se de um programa diário, de segunda a sexta-feira, com todas as informações do FC Porto, um olhar atento sobre o dia-a-dia do clube, com síntese sobre todas as modalidades(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159534/M" />
+  </programme>
+  <programme start="20191022200000 +0100" stop="20191022210000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto Entrevista</title>
+    <desc lang="pt">Entrevistas aos principais intervenientes no Universo do Futebol Clube do Porto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159530/M" />
+  </programme>
+  <programme start="20191022210000 +0100" stop="20191022220000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Jornal Diário</title>
+    <desc lang="pt">Um programa diário que parte do Porto e Norte para o resto do país(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159540/M" />
+  </programme>
+  <programme start="20191022220000 +0100" stop="20191022230000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto - Da Bancada</title>
+    <desc lang="pt">Espaço de debate dos temas “quentes” que marcam a atualidade do FC Porto. Durante este programa, irá ser debatida a verdade sobre o que se passa dentro e fora das quatro linhas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159542/M" />
+  </programme>
+  <programme start="20191022230000 +0100" stop="20191022233000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Caminhos da História</title>
+    <desc lang="pt">Um programa dedicado à divulgação da História e do Património do nosso país, que visa valorizar a nossa memória através de percursos no território e de visitas a monumentos, na companhia do arqueólogo e historiador Joel Cleto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159506/M" />
+  </programme>
+  <programme start="20191022233000 +0100" stop="20191023000000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Imperdíveis</title>
+    <desc lang="pt">Programa dedicado ao vinho e à gastronomia, cujo foco incide nas grandes quintas produtoras de vinho português e de vinho do Porto. Dá-nos a conhecer os vários eventos dedicados à vitivinicultura, assim como novos locais e espaços de degustação(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13159498/M" />
+  </programme>
+  <programme start="20191022032700 +0100" stop="20191022040800 +0100" channel="SIC RADICAL">
+    <title lang="pt">Tonight Show With Jimmy Fallon</title>
+    <desc lang="pt">Talk show americano apresentado por Jimmy Fallon, a partir de Nova Iorque. O comediante, vencedor de um Emmy e de um Grammy, traz o seu estilo único ao programa, que já contou com grandes apresentadores como Johnny Carson e Jay Leno. Fallon mantém a tradição convidando celebridades e dando a conhecer talentos da música e da comédia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13091298/M" />
+    <episode-num system="onscreen">S7 E14</episode-num>
+  </programme>
+  <programme start="20191022040800 +0100" stop="20191022044800 +0100" channel="SIC RADICAL">
+    <title lang="pt">Como Isto Anda</title>
+    <desc lang="pt">Filmado e editado num registo de reportagem documental, ao estilo de “No Reservations” do grande e saudoso Anthony Bourdain, outra das caras dadas a conhecer no nosso país pela SIC Radical, esta série de programas centrará a sua atenção nas mudanças que tiveram lugar nestes últimos 18 anos em algumas das áreas chave da vida do nosso país(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12455103/M" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20191022044800 +0100" stop="20191022051800 +0100" channel="SIC RADICAL">
+    <title lang="pt">Fala Com Ela</title>
+    <desc lang="pt">O ‘Fala com Ela’, um programa de Inês Meneses, está no ar há 13 anos na Rádio Radar e autonomamente alojado em podcast: falacomela.podbean.com(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12272343/M" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20191022051800 +0100" stop="20191022052200 +0100" channel="SIC RADICAL">
+    <title lang="pt">Vida Extra</title>
+    <desc lang="pt">'Vida Extra' foi pensado para ser o local onde se podem encontrar as melhores sugestões e recomendações para os tempos livres. Das artes - cinema, música, televisão, exposições, livros, teatro e dança - aos bens de consumo, nada vai escapar ao radar do 'Vida Extra'(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13091348/M" />
+    <episode-num system="onscreen">S2 E32</episode-num>
+  </programme>
+  <programme start="20191022052200 +0100" stop="20191022062200 +0100" channel="SIC RADICAL">
+    <title lang="pt">CC All Stars</title>
+    <desc lang="pt">Programa de entretenimento com especial atenção para a comunicação e interatividade com os jovens, repleto de momentos de paródia, rubricas excitantes, passatempos e espaços dedicados à música. Apresentado por João Paulo Sousa, Carolina Torres, Guilherme Teixeira, Rita Camarneiro, Idevor Mendonça e Inês Pereira(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160196/M" />
+    <episode-num system="onscreen">S17 E96</episode-num>
+  </programme>
+  <programme start="20191022062200 +0100" stop="20191022070700 +0100" channel="SIC RADICAL">
+    <title lang="pt">CC All Stars</title>
+    <desc lang="pt">Programa de entretenimento com especial atenção para a comunicação e interatividade com os jovens, repleto de momentos de paródia, rubricas excitantes, passatempos e espaços dedicados à música. Apresentado por João Paulo Sousa, Carolina Torres, Guilherme Teixeira, Rita Camarneiro, Idevor Mendonça e Inês Pereira(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13091325/M" />
+    <episode-num system="onscreen">S17 E95</episode-num>
+  </programme>
+  <programme start="20191022070700 +0100" stop="20191022071600 +0100" channel="SIC RADICAL">
+    <title lang="pt">Cinetendinha</title>
+    <desc lang="pt">O cinema visto na primeira pessoa por Rui Pedro Tendinha. Um programa que seguirá o crítico e cine trend-setter pelos festivais, pelo seu quotidiano, que inclui galas, antestreias e eventualmente uma ida ao sofá da sua sala. Toda a sua vida cinéfila num formato captado por telemóvel(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13091287/M" />
+    <episode-num system="onscreen">S1 E314</episode-num>
+  </programme>
+  <programme start="20191022071600 +0100" stop="20191022073400 +0100" channel="SIC RADICAL">
+    <title lang="pt">Vida Extra</title>
+    <desc lang="pt">'Vida Extra' foi pensado para ser o local onde se podem encontrar as melhores sugestões e recomendações para os tempos livres. Das artes - cinema, música, televisão, exposições, livros, teatro e dança - aos bens de consumo, nada vai escapar ao radar do 'Vida Extra'(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13091348/M" />
+    <episode-num system="onscreen">S2 E32</episode-num>
+  </programme>
+  <programme start="20191022073400 +0100" stop="20191022075600 +0100" channel="SIC RADICAL">
+    <title lang="pt">Fameless</title>
+    <desc lang="pt">0(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160199/M" />
+    <episode-num system="onscreen">S2 E13</episode-num>
+  </programme>
+  <programme start="20191022075600 +0100" stop="20191022084200 +0100" channel="SIC RADICAL">
+    <title lang="pt">CC All Stars</title>
+    <desc lang="pt">Programa de entretenimento com especial atenção para a comunicação e interatividade com os jovens, repleto de momentos de paródia, rubricas excitantes, passatempos e espaços dedicados à música. Apresentado por João Paulo Sousa, Carolina Torres, Guilherme Teixeira, Rita Camarneiro, Idevor Mendonça e Inês Pereira(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160196/M" />
+    <episode-num system="onscreen">S17 E96</episode-num>
+  </programme>
+  <programme start="20191022084200 +0100" stop="20191022092300 +0100" channel="SIC RADICAL">
+    <title lang="pt">Tonight Show With Jimmy Fallon</title>
+    <desc lang="pt">Talk show americano apresentado por Jimmy Fallon, a partir de Nova Iorque. O comediante, vencedor de um Emmy e de um Grammy, traz o seu estilo único ao programa, que já contou com grandes apresentadores como Johnny Carson e Jay Leno. Fallon mantém a tradição convidando celebridades e dando a conhecer talentos da música e da comédia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13091281/M" />
+    <episode-num system="onscreen">S7 E13</episode-num>
+  </programme>
+  <programme start="20191022092300 +0100" stop="20191022094500 +0100" channel="SIC RADICAL">
+    <title lang="pt">Aleixo PSI</title>
+    <desc lang="pt">Por contingências da vida, Bruno Aleixo é judicialmente obrigado a fazer psicoterapia. Ao longo de seis sessões, e acompanhado pela sua relação especial com a verdade absoluta, levantar-se-á então o véu sobre várias áreas da sua vida (amigos, família, negócios, amores, etc.)(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/9897572/M" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20191022094500 +0100" stop="20191022095300 +0100" channel="SIC RADICAL">
+    <title lang="pt">Cinetendinha</title>
+    <desc lang="pt">O cinema visto na primeira pessoa por Rui Pedro Tendinha. Um programa que seguirá o crítico e cine trend-setter pelos festivais, pelo seu quotidiano, que inclui galas, antestreias e eventualmente uma ida ao sofá da sua sala. Toda a sua vida cinéfila num formato captado por telemóvel(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160840/M" />
+    <episode-num system="onscreen">S1 E315</episode-num>
+  </programme>
+  <programme start="20191022095300 +0100" stop="20191022103500 +0100" channel="SIC RADICAL">
+    <title lang="pt">Late Late Show with James Corden</title>
+    <desc lang="pt">Todas as noites James Corden lança uma “after-party” onde mistura convidados e celebridades com actos musicais, jogos e boa disposição. O que distingue The Late Late Show dos outros talk shows é a capacidade de Corden em mostrar aos espectadores um olhar único sobre os bastidores do programa(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13091300/M" />
+    <episode-num system="onscreen">S5 E22</episode-num>
+  </programme>
+  <programme start="20191022103500 +0100" stop="20191022111600 +0100" channel="SIC RADICAL">
+    <title lang="pt">Blacklist</title>
+    <desc lang="pt">Raymond “Red” Reddington, um dos fugitivos mais procurados pela polícia, decide misteriosamente entregar-se na sede do FBI em Washington, alegando que ele e o FBI têm os mesmos interesses: capturar terroristas e bandidos(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11605158/M" />
+    <episode-num system="onscreen">S5 E18</episode-num>
+  </programme>
+  <programme start="20191022111600 +0100" stop="20191022113900 +0100" channel="SIC RADICAL">
+    <title lang="pt">Fameless</title>
+    <desc lang="pt">0(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160199/M" />
+    <episode-num system="onscreen">S2 E13</episode-num>
+  </programme>
+  <programme start="20191022113900 +0100" stop="20191022122300 +0100" channel="SIC RADICAL">
+    <title lang="pt">Dragon’s Den Canadá</title>
+    <desc lang="pt">Dragons’ Den, um programa onde empresários e empreendedores apresentam as suas ideias de negócio a um painel de 5 investidores de forma a conseguirem financiamento(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160194/M" />
+    <episode-num system="onscreen">S13 E2</episode-num>
+  </programme>
+  <programme start="20191022122300 +0100" stop="20191022131100 +0100" channel="SIC RADICAL">
+    <title lang="pt">Dragon’s Den Canadá</title>
+    <desc lang="pt">Dragons’ Den, um programa onde empresários e empreendedores apresentam as suas ideias de negócio a um painel de 5 investidores de forma a conseguirem financiamento(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160192/M" />
+    <episode-num system="onscreen">S13 E3</episode-num>
+  </programme>
+  <programme start="20191022131100 +0100" stop="20191022135700 +0100" channel="SIC RADICAL">
+    <title lang="pt">American Ninja Warrior</title>
+    <desc lang="pt">Força, determinação, velocidade e a dose certa de loucura. Estes são os ingredientes para conquistar a maior pista de obstáculo do mundo! Quem será o grande vencedor?(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12526261/M" />
+    <episode-num system="onscreen">S10 E21</episode-num>
+  </programme>
+  <programme start="20191022135700 +0100" stop="20191022143900 +0100" channel="SIC RADICAL">
+    <title lang="pt">American Ninja Warrior</title>
+    <desc lang="pt">Força, determinação, velocidade e a dose certa de loucura. Estes são os ingredientes para conquistar a maior pista de obstáculo do mundo! Quem será o grande vencedor?(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12526281/M" />
+    <episode-num system="onscreen">S10 E22</episode-num>
+  </programme>
+  <programme start="20191022143900 +0100" stop="20191022152800 +0100" channel="SIC RADICAL">
+    <title lang="pt">CC All Stars</title>
+    <desc lang="pt">Programa de entretenimento com especial atenção para a comunicação e interatividade com os jovens, repleto de momentos de paródia, rubricas excitantes, passatempos e espaços dedicados à música. Apresentado por João Paulo Sousa, Carolina Torres, Guilherme Teixeira, Rita Camarneiro, Idevor Mendonça e Inês Pereira(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160196/M" />
+    <episode-num system="onscreen">S17 E96</episode-num>
+  </programme>
+  <programme start="20191022152800 +0100" stop="20191022161400 +0100" channel="SIC RADICAL">
+    <title lang="pt">F Word</title>
+    <desc lang="pt">O The F Word é um live reality show em que famílias dos Estados Unidos da América competem como equipas numa cozinha de alto risco. Gordon Ramsay, celebridades e vários convidados VIP julgam as equipas pelas suas habilidades culinárias(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12272286/M" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20191022161400 +0100" stop="20191022163500 +0100" channel="SIC RADICAL">
+    <title lang="pt">Fameless</title>
+    <desc lang="pt">0(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160199/M" />
+    <episode-num system="onscreen">S2 E13</episode-num>
+  </programme>
+  <programme start="20191022163500 +0100" stop="20191022165600 +0100" channel="SIC RADICAL">
+    <title lang="pt">Fameless</title>
+    <desc lang="pt">0(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160838/M" />
+    <episode-num system="onscreen">S2 E14</episode-num>
+  </programme>
+  <programme start="20191022165600 +0100" stop="20191022170300 +0100" channel="SIC RADICAL">
+    <title lang="pt">M De Música</title>
+    <desc lang="pt">Desde 2010, este programa é presença assídua nos ecrãs da SIC Mulher, com a rúbrica M de Música. O M de Música é um programa semanal, com duração de cinco minutos, composto por entrevista e três rubricas rápidas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13010740/M" />
+    <episode-num system="onscreen">S1 E130</episode-num>
+  </programme>
+  <programme start="20191022170300 +0100" stop="20191022174700 +0100" channel="SIC RADICAL">
+    <title lang="pt">Blacklist</title>
+    <desc lang="pt">Raymond “Red” Reddington, um dos fugitivos mais procurados pela polícia, decide misteriosamente entregar-se na sede do FBI em Washington, alegando que ele e o FBI têm os mesmos interesses: capturar terroristas e bandidos(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11605158/M" />
+    <episode-num system="onscreen">S5 E18</episode-num>
+  </programme>
+  <programme start="20191022174700 +0100" stop="20191022183300 +0100" channel="SIC RADICAL">
+    <title lang="pt">CC All Stars</title>
+    <desc lang="pt">Programa de entretenimento com especial atenção para a comunicação e interatividade com os jovens, repleto de momentos de paródia, rubricas excitantes, passatempos e espaços dedicados à música. Apresentado por João Paulo Sousa, Carolina Torres, Guilherme Teixeira, Rita Camarneiro, Idevor Mendonça e Inês Pereira(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160830/M" />
+    <episode-num system="onscreen">S17 E97</episode-num>
+  </programme>
+  <programme start="20191022183300 +0100" stop="20191022191200 +0100" channel="SIC RADICAL">
+    <title lang="pt">American Ninja Warrior</title>
+    <desc lang="pt">Força, determinação, velocidade e a dose certa de loucura. Estes são os ingredientes para conquistar a maior pista de obstáculo do mundo! Quem será o grande vencedor?(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12526281/M" />
+    <episode-num system="onscreen">S10 E22</episode-num>
+  </programme>
+  <programme start="20191022191200 +0100" stop="20191022195400 +0100" channel="SIC RADICAL">
+    <title lang="pt">American Ninja Warrior</title>
+    <desc lang="pt">Força, determinação, velocidade e a dose certa de loucura. Estes são os ingredientes para conquistar a maior pista de obstáculo do mundo! Quem será o grande vencedor?(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12562627/M" />
+    <episode-num system="onscreen">S10 E23</episode-num>
+  </programme>
+  <programme start="20191022195400 +0100" stop="20191022213000 +0100" channel="SIC RADICAL">
+    <title lang="pt">Esta Mensagem É Para Ti</title>
+    <desc lang="pt">O formato revelação em todo o mundo chega agora a Portugal com António Raminhos(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160836/M" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20191022213000 +0100" stop="20191022221400 +0100" channel="SIC RADICAL">
+    <title lang="pt">Dragon’s Den Canadá</title>
+    <desc lang="pt">Dragons’ Den, um programa onde empresários e empreendedores apresentam as suas ideias de negócio a um painel de 5 investidores de forma a conseguirem financiamento(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160192/M" />
+    <episode-num system="onscreen">S13 E3</episode-num>
+  </programme>
+  <programme start="20191022221400 +0100" stop="20191022230000 +0100" channel="SIC RADICAL">
+    <title lang="pt">Dragon’s Den Canadá</title>
+    <desc lang="pt">Dragons’ Den, um programa onde empresários e empreendedores apresentam as suas ideias de negócio a um painel de 5 investidores de forma a conseguirem financiamento(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160828/M" />
+    <episode-num system="onscreen">S13 E4</episode-num>
+  </programme>
+  <programme start="20191022230000 +0100" stop="20191022234500 +0100" channel="SIC RADICAL">
+    <title lang="pt">Sex Pod</title>
+    <desc lang="pt">Um conjunto de jovens entra no Sex Pod, onde se podem sentir à vontade para fazer perguntas sobre qualquer aspeto de sexo e de saúde sexual. As respostas às suas perguntas serão dadas por um painel de especialistas com o auxílio de vídeos demonstrativos(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12162086/M" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20191022234500 +0100" stop="20191023012300 +0100" channel="SIC RADICAL">
+    <title lang="pt">Elles</title>
+    <desc lang="pt">0(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13160834/M" />
+  </programme>
+  <programme start="20191022035000 +0100" stop="20191022041600 +0100" channel="Q">
+    <title lang="pt">Submersos</title>
+    <desc lang="pt">Uma série acerca do mundo à superfície e aquele por baixo. Da distância a que estamos de nós mesmos e do que nos rodeia; da incapacidade de entendimento entre gerações diferentes, pessoas diferentes e do tumulto da coexistência. Com Maria Rueff, Cláudio da Silva, Carloto Cotta e Mina Andala(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/5184627/M" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20191022041600 +0100" stop="20191022043000 +0100" channel="Q">
+    <title lang="pt">Um Alienígena Perto De Si</title>
+    <desc lang="pt">Eles andam aí... Aceite a verdade. Qualquer um pode ser: Um Alienígena perto de si(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13029380/M" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20191022043000 +0100" stop="20191022045200 +0100" channel="Q">
+    <title lang="pt">Shortcutz</title>
+    <desc lang="pt">As melhores curtas-metragens estão aqui, numa parceria com a ShortCutz(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12672705/M" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20191022045200 +0100" stop="20191022052800 +0100" channel="Q">
+    <title lang="pt">Portugal Alcatifado</title>
+    <desc lang="pt">O universo e personagens de Manuel João Vieira(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/3365668/M" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20191022052800 +0100" stop="20191022060100 +0100" channel="Q">
+    <title lang="pt">Dá-las Compacto</title>
+    <desc lang="pt">A micro novela marota do Canal Q(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12809063/M" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20191022060100 +0100" stop="20191022060600 +0100" channel="Q">
+    <title lang="pt">Miúdas Nuas Já A Seguir</title>
+    <desc lang="pt">Madrugadas quentes no Canal Q…(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13029387/M" />
+  </programme>
+  <programme start="20191022060600 +0100" stop="20191022070200 +0100" channel="Q">
+    <title lang="pt">Baseado Numa História Verídica</title>
+    <desc lang="pt">A nossa vida é um filme que fazemos na cabeça, com personagens principais e secundárias. A entrevista biográfica do programa segue as regras da escrita dos guiões de cinema. Olhamos para a vida das personagens públicas e pedimos-lhes que a contem dessa forma(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/6939318/M" />
+    <episode-num system="onscreen">S5 E37</episode-num>
+  </programme>
+  <programme start="20191022070200 +0100" stop="20191022071300 +0100" channel="Q">
+    <title lang="pt">A Vida E Obra De Um Desanimado</title>
+    <desc lang="pt">O Desanimado, um homem que só quer que não o chateiem(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13029362/M" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20191022071300 +0100" stop="20191022073000 +0100" channel="Q">
+    <title lang="pt">As Receitas Do Chef Bernas</title>
+    <desc lang="pt">Isto não é de todo um programa de cozinha(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13029349/M" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20191022073000 +0100" stop="20191022083700 +0100" channel="Q">
+    <title lang="pt">É A Vida Alvim</title>
+    <desc lang="pt">Seria útil saber dizer o que nos reserva. Mas a vida do Alvim não dá para isso, nunca se sabe o que vai fazer amanhã e muito menos hoje. E o programa será isso também, uma emissão com convidados vários, com entrevistas, com humor, com música e novos talentos. Pessoas que queiram fazer ou já façam(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13029366/M" />
+    <episode-num system="onscreen">S5 E109</episode-num>
+  </programme>
+  <programme start="20191022083700 +0100" stop="20191022085000 +0100" channel="Q">
+    <title lang="pt">V Séries</title>
+    <desc lang="pt">Este programa traz duas propostas de seriados altamente recomendados por profissionais da indústria. Patrícia Müller e José Machado põem em confronto duas séries e a oferta é tanta que é cada vez mais difícil escolher o que ver e o que seguir(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12299135/M" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20191022085000 +0100" stop="20191022100200 +0100" channel="Q">
+    <title lang="pt">Querido Diário</title>
+    <desc lang="pt">Programa de registo diarístico que espelha a atualidade, em busca de novos ângulos, causas e irritações da semana, tendências e vanguardas. Uma síntese abrangente dos nossos dias, fazendo uso de quatro vozes, escolhas e visões pessoais(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12428578/M" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20191022100200 +0100" stop="20191022110000 +0100" channel="Q">
+    <title lang="pt">Inferno</title>
+    <desc lang="pt">O programa de informação satírico mais antigo da história dos PALOP tem novas caras e um novo conceito: um tema por semana levado até às profundezas do Inferno. E sim, é mesmo verdade: temos um cão(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12299154/M" />
+    <episode-num system="onscreen">S9 E3</episode-num>
+  </programme>
+  <programme start="20191022110000 +0100" stop="20191022115500 +0100" channel="Q">
+    <title lang="pt">Baseado Numa História Verídica</title>
+    <desc lang="pt">A nossa vida é um filme que fazemos na cabeça, com personagens principais e secundárias. A entrevista biográfica do programa segue as regras da escrita dos guiões de cinema. Olhamos para a vida das personagens públicas e pedimos-lhes que a contem dessa forma(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/6939318/M" />
+    <episode-num system="onscreen">S5 E37</episode-num>
+  </programme>
+  <programme start="20191022115500 +0100" stop="20191022125500 +0100" channel="Q">
+    <title lang="pt">É A Vida Alvim</title>
+    <desc lang="pt">Seria útil saber dizer o que nos reserva. Mas a vida do Alvim não dá para isso, nunca se sabe o que vai fazer amanhã e muito menos hoje. E o programa será isso também, uma emissão com convidados vários, com entrevistas, com humor, com música e novos talentos. Pessoas que queiram fazer ou já façam(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13029366/M" />
+    <episode-num system="onscreen">S5 E109</episode-num>
+  </programme>
+  <programme start="20191022125500 +0100" stop="20191022131200 +0100" channel="Q">
+    <title lang="pt">As Receitas Do Chef Bernas</title>
+    <desc lang="pt">Isto não é de todo um programa de cozinha(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13029349/M" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20191022131200 +0100" stop="20191022133300 +0100" channel="Q">
+    <title lang="pt">Querido Diário Solos</title>
+    <desc lang="pt">Programa que espelha a atualidade em busca de novos ângulos, tendências e vanguardas. Uma síntese abrangente dos nossos dias, fazendo uso de quatro vozes, escolhas e visões pessoais(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13029312/M" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20191022133300 +0100" stop="20191022134400 +0100" channel="Q">
+    <title lang="pt">A Vida E Obra De Um Desanimado</title>
+    <desc lang="pt">O Desanimado, um homem que só quer que não o chateiem(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13029362/M" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20191022134400 +0100" stop="20191022141200 +0100" channel="Q">
+    <title lang="pt">Short Content</title>
+    <desc lang="pt">Alguns dos melhores momentos do Canal Q(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10400803/M" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20191022141200 +0100" stop="20191022150000 +0100" channel="Q">
+    <title lang="pt">Inferno</title>
+    <desc lang="pt">O programa de informação satírico mais antigo da história dos PALOP tem novas caras e um novo conceito: um tema por semana levado até às profundezas do Inferno. E sim, é mesmo verdade: temos um cão(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12299154/M" />
+    <episode-num system="onscreen">S9 E3</episode-num>
+  </programme>
+  <programme start="20191022150000 +0100" stop="20191022151000 +0100" channel="Q">
+    <title lang="pt">V Séries</title>
+    <desc lang="pt">Este programa traz duas propostas de seriados altamente recomendados por profissionais da indústria. Patrícia Müller e José Machado põem em confronto duas séries e a oferta é tanta que é cada vez mais difícil escolher o que ver e o que seguir(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12299135/M" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20191022151000 +0100" stop="20191022160400 +0100" channel="Q">
+    <title lang="pt">Querido Diário</title>
+    <desc lang="pt">Programa de registo diarístico que espelha a atualidade, em busca de novos ângulos, causas e irritações da semana, tendências e vanguardas. Uma síntese abrangente dos nossos dias, fazendo uso de quatro vozes, escolhas e visões pessoais(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12428536/M" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20191022160400 +0100" stop="20191022170500 +0100" channel="Q">
+    <title lang="pt">Baseado Numa História Verídica</title>
+    <desc lang="pt">A nossa vida é um filme que fazemos na cabeça, com personagens principais e secundárias. A entrevista biográfica do programa segue as regras da escrita dos guiões de cinema. Olhamos para a vida das personagens públicas e pedimos-lhes que a contem dessa forma(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12428477/M" />
+    <episode-num system="onscreen">S6 E6</episode-num>
+  </programme>
+  <programme start="20191022170500 +0100" stop="20191022175600 +0100" channel="Q">
+    <title lang="pt">Super Swing</title>
+    <desc lang="pt">Talk show que vive da dinâmica e personalidade da dupla que o apresenta. As duplas rodam a cada mês, justificando assim o conceito de swing. O formato é maleável à vontade de cada parelha, permitindo rubricas, reportagens e convidados(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10467569/M" />
+    <episode-num system="onscreen">S1 E23</episode-num>
+  </programme>
+  <programme start="20191022175600 +0100" stop="20191022182400 +0100" channel="Q">
+    <title lang="pt">Lendas Vivas</title>
+    <desc lang="pt">Programa de entrevista a grandes lendas da sociedade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10809383/M" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20191022182400 +0100" stop="20191022183800 +0100" channel="Q">
+    <title lang="pt">V Séries</title>
+    <desc lang="pt">Este programa traz duas propostas de seriados altamente recomendados por profissionais da indústria. Patrícia Müller e José Machado põem em confronto duas séries e a oferta é tanta que é cada vez mais difícil escolher o que ver e o que seguir(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12299038/M" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20191022183800 +0100" stop="20191022194600 +0100" channel="Q">
+    <title lang="pt">Querido Diário</title>
+    <desc lang="pt">Programa de registo diarístico que espelha a atualidade, em busca de novos ângulos, causas e irritações da semana, tendências e vanguardas. Uma síntese abrangente dos nossos dias, fazendo uso de quatro vozes, escolhas e visões pessoais(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12428578/M" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20191022194600 +0100" stop="20191022204300 +0100" channel="Q">
+    <title lang="pt">É A Vida Alvim</title>
+    <desc lang="pt">Seria útil saber dizer o que nos reserva. Mas a vida do Alvim não dá para isso, nunca se sabe o que vai fazer amanhã e muito menos hoje. E o programa será isso também, uma emissão com convidados vários, com entrevistas, com humor, com música e novos talentos. Pessoas que queiram fazer ou já façam(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13029366/M" />
+    <episode-num system="onscreen">S5 E109</episode-num>
+  </programme>
+  <programme start="20191022204300 +0100" stop="20191022211300 +0100" channel="Q">
+    <title lang="pt">Lendas Vivas</title>
+    <desc lang="pt">Programa de entrevista a grandes lendas da sociedade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10356182/M" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20191022211300 +0100" stop="20191022213500 +0100" channel="Q">
+    <title lang="pt">V Séries</title>
+    <desc lang="pt">Este programa traz duas propostas de seriados altamente recomendados por profissionais da indústria. Patrícia Müller e José Machado põem em confronto duas séries e a oferta é tanta que é cada vez mais difícil escolher o que ver e o que seguir(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12299135/M" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20191022213500 +0100" stop="20191022223000 +0100" channel="Q">
+    <title lang="pt">Inferno</title>
+    <desc lang="pt">O programa de informação satírico mais antigo da história dos PALOP tem novas caras e um novo conceito: um tema por semana levado até às profundezas do Inferno. E sim, é mesmo verdade: temos um cão(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12428549/M" />
+    <episode-num system="onscreen">S9 E8</episode-num>
+  </programme>
+  <programme start="20191022223000 +0100" stop="20191022230300 +0100" channel="Q">
+    <title lang="pt">Paradoxo Da Tangência</title>
+    <desc lang="pt">“Eduardo Jaime” apresenta entrevistas viscerais em que grandes vultos das artes, do espetáculo e do meio intelectual se vão despojar perante uma figura incontornável do audiovisual, dando-se a conhecer como seres tangíveis(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/4734316/M" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20191022230300 +0100" stop="20191022231800 +0100" channel="Q">
+    <title lang="pt">As Receitas Do Chef Bernas</title>
+    <desc lang="pt">Isto não é de todo um programa de cozinha(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13029385/M" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20191022231800 +0100" stop="20191022233500 +0100" channel="Q">
+    <title lang="pt">Filho Da Mãe</title>
+    <desc lang="pt">Rui Pêgo acredita que a fama e o prestígio são hereditários. Este documentário, que o próprio encomenda e financia, mostra o filho de Júlia Pinheiro à luta pelo que é seu por direito: um lugar de destaque, nem que seja às custas da sua família. Afinal, o Rui é a definição exata de filho da mãe(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/7942107/M" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20191022233500 +0100" stop="20191022234900 +0100" channel="Q">
+    <title lang="pt">A Vida E Obra De Um Desanimado</title>
+    <desc lang="pt">O Desanimado, um homem que só quer que não o chateiem(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13029362/M" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20191022234900 +0100" stop="20191023000000 +0100" channel="Q">
+    <title lang="pt">Short Content</title>
+    <desc lang="pt">Alguns dos melhores momentos do Canal Q(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10400803/M" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+</tv>
