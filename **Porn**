@@ -69,7 +69,7 @@ http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/23170
 http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/23223
 #EXTINF:-1 tvg-logo="",X.DREAMTV 2
 http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/23192
-#EXTINF:-1 tvg-logo="",HOT XXL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HOTXXL.png",HOT XXL
 http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/23213
 #EXTINF:-1 tvg-logo="http://www.number1guru.com/adult/tv-logo/Miami-TV.png",MIAMI TV
 http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/23205
